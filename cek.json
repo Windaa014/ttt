@@ -1,1 +1,4 @@
-[]
+[
+  { "token": "123456:ABCDEF", "owner": "winda" },
+  { "token": "654321:XYZ", "owner": "botku" }
+]
