@@ -1,4 +1,14 @@
 [
-  { "token": "123456:ABCDEF", "owner": "winda" },
-  { "token": "654321:XYZ", "owner": "botku" }
+  {
+    "token": "123456:ABCDEF",
+    "owner": "winda"
+  },
+  {
+    "token": "654321:XYZ",
+    "owner": "botku"
+  },
+  {
+    "token": "8094696787:AAH4a-Tjn1llQ6oF-mAEH3YqpKvcuvYJHfM",
+    "owner": "@OsideGirll"
+  }
 ]
