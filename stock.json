@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nama": "Netflix Premium",
+    "harga": "35.000",
+    "deskripsi": "Garansi 1 bulan",
+    "status": "ready",
+    "foto": "https://i.imgur.com/xxxx.jpg"
+  },
+  {
+    "id": 1,
+    "nama": "Netflix Premium",
+    "harga": "35.000",
+    "deskripsi": "Garansi 1 bulan",
+    "status": "ready",
+    "foto": "https://i.imgur.com/xxxx.jpg"
+  }
+]
