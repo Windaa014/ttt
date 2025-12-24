@@ -6,13 +6,5 @@
     "deskripsi": "tes 1\ntes 1\ntes 1",
     "foto": "https://files.catbox.moe/phro21.jpg",
     "status": "sold"
-  },
-  {
-    "id": 2,
-    "nama": "tes 2",
-    "harga": "130.000",
-    "deskripsi": "tes tes tes",
-    "foto": "https://files.catbox.moe/phro21.jpg",
-    "status": "ready"
   }
 ]
