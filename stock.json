@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "nama": "Netflix Premium",
+    "nama": "tes",
     "harga": "35.000",
-    "deskripsi": "Garansi 1 bulan",
-    "status": "ready",
+    "deskripsi": "tes",
+    "status": "sold",
     "foto": "https://i.imgur.com/xxxx.jpg"
   },
   {
     "id": 1,
-    "nama": "Netflix Premium",
+    "nama": "tes2",
     "harga": "35.000",
-    "deskripsi": "Garansi 1 bulan",
+    "deskripsi": "tes2",
     "status": "ready",
     "foto": "https://i.imgur.com/xxxx.jpg"
   }
