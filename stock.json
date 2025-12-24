@@ -14,5 +14,13 @@
     "deskripsi": "tes2",
     "status": "ready",
     "foto": "https://i.imgur.com/xxxx.jpg"
+  },
+  {
+    "id": 2,
+    "nama": "Akun s1",
+    "harga": "340.000",
+    "deskripsi": "s1 on\ns2 on\nmax 6\notw max 7\nall aman\nallreff",
+    "foto": "https://files.catbox.moe/phro21.jpg",
+    "status": "ready"
   }
 ]
