@@ -22,5 +22,13 @@
     "deskripsi": "MAX 1 LUMAYAN",
     "foto": "https://files.catbox.moe/v6kldn.jpg",
     "status": "sold"
+  },
+  {
+    "id": 4,
+    "nama": "AKUN FREE FIRE",
+    "harga": "800.000.00",
+    "deskripsi": "DM UTUH, MB ON SEBULAN, MAX 3 OTW 4\nPRIME 8 BUNDLE EVENT BEJIBUN",
+    "foto": "https://files.catbox.moe/gdae36.jpeg",
+    "status": "ready"
   }
 ]
