@@ -1,59 +1,6 @@
-
-{
-  "diamond_ff": {
-    "title": "Diamond Free Fire",
-    "items": [
-      { "id": 1, "nama": "20 Diamond", "harga": "4.000" },
-      { "id": 2, "nama": "50 Diamond", "harga": "7.000" },
-      { "id": 3, "nama": "70 Diamond", "harga": "9.000" },
-      { "id": 4, "nama": "100 Diamond", "harga": "13.500" },
-      { "id": 5, "nama": "140 Diamond", "harga": "18.500" },
-      { "id": 6, "nama": "210 Diamond", "harga": "27.000" },
-      { "id": 7, "nama": "355 Diamond", "harga": "45.000" },
-      { "id": 8, "nama": "720 Diamond", "harga": "88.000" },
-      { "id": 9, "nama": "1000 Diamond", "harga": "122.000" },
-      { "id": 10, "nama": "2000 Diamond", "harga": "240.000" }
-    ]
-  },
-
-  "diamond_ml": {
-    "title": "Diamond Mobile Legends",
-    "items": [
-      { "id": 1, "nama": "20 (18+2)", "harga": "6.500" },
-      { "id": 2, "nama": "33 (30+3)", "harga": "10.000" },
-      { "id": 3, "nama": "50 (46+4)", "harga": "14.500" },
-      { "id": 4, "nama": "85 (77+8)", "harga": "25.000" },
-      { "id": 5, "nama": "176 (160+16)", "harga": "50.000" },
-      { "id": 6, "nama": "296 (256+40)", "harga": "80.000" },
-      { "id": 7, "nama": "370 (333+37)", "harga": "100.000" },
-      { "id": 8, "nama": "514 (465+49)", "harga": "140.000" },
-      { "id": 9, "nama": "750 (668+82)", "harga": "198.000" },
-      { "id": 10, "nama": "1045 (928+117)", "harga": "275.000" },
-      { "id": 11, "nama": "Weekly Diamond Pass", "harga": "28.000" }
-    ]
-  },
-
-  "sewa_ff": {
-    "title": "Sewa Akun Free Fire",
-    "items": [
-      { "id": 1, "nama": "Basic", "harga": "5.000" },
-      { "id": 2, "nama": "Premium", "harga": "15.000" },
-      { "id": 3, "nama": "VIP", "harga": "25.000" },
-      { "id": 4, "nama": "VVIP", "harga": "50.000" }
-    ]
-  },
-
-  "joki_ff": {
-    "title": "Jasa Joki Free Fire (VNO Koko)",
-    "items": [
-      { "id": 1, "nama": "100 Point (BR Rank)", "harga": "10.000" },
-      { "id": 2, "nama": "150 Point (BR Rank)", "harga": "15.000" },
-      { "id": 3, "nama": "200 Point (BR Rank)", "harga": "25.000" },
-      { "id": 4, "nama": "10 Bintang (CS Rank)", "harga": "15.000" },
-      { "id": 5, "nama": "20 Bintang (CS Rank)", "harga": "30.000" },
-      { "id": 6, "nama": "30 Bintang (CS Rank)", "harga": "40.000" },
-      { "id": 7, "nama": "50 Bintang (CS Rank)", "harga": "70.000" },
-      { "id": 8, "nama": "100 Bintang (CS Rank)", "harga": "130.000" }
-    ]
+[
+  {
+    "nama": "SEWA",
+    "harga": "10.000"
   }
-}
+]
