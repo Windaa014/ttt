@@ -62,5 +62,13 @@
     "deskripsi": "OTW MAX 1\nTINJU ON",
     "foto": "https://files.catbox.moe/ey6szr.jpg",
     "status": "sold"
+  },
+  {
+    "id": 9,
+    "nama": "AKUN FREE FIRE",
+    "harga": "350.000.00",
+    "deskripsi": "OTW MAX 2 CN ON, EMOT PERUBAHAN ON",
+    "foto": "https://files.catbox.moe/e71vkt.jpg",
+    "status": "ready"
   }
 ]
