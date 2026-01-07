@@ -1,9 +1,13 @@
 {
   "data": {
-    "active": false,
-    "title": "MAINTENANCE",
-    "message": "Website sedang dalam perbaikan.\nSilakan kembali lagi nanti 🙏"
+    "data": {
+      "active": false,
+      "title": "MAINTENANCE",
+      "message": "Website sedang dalam perbaikan.\nSilakan kembali lagi nanti 🙏"
+    },
+    "sha": "d15c72af043f1b19227902a66a29a3cda495030a",
+    "active": true
   },
-  "sha": "d15c72af043f1b19227902a66a29a3cda495030a",
-  "active": true
+  "sha": "6b7a8ce2fe1a4b8c3ecc7e7f4642bd0756bb42a3",
+  "active": false
 }
