@@ -1,1 +1,38 @@
-
+[
+  {
+    "id": 1,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "tes",
+    "harga": "Rp10.000 / 24 Jam",
+    "foto": "https://files.catbox.moe/br34km.jpg",
+    "status": "ready",
+    "expired_at": null
+  },
+  {
+    "id": 2,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "tes",
+    "harga": "Rp5.000 / 24 Jam",
+    "foto": "https://files.catbox.moe/iewspx.jpg",
+    "status": "rented",
+    "expired_at": "2026-01-08T20:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": " tes",
+    "harga": "Rp7.000 / 24 Jam",
+    "foto": "https://files.catbox.moe/cbq4ox.jpg",
+    "status": "ready",
+    "expired_at": null
+  },
+  {
+    "id": 4,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "tes",
+    "harga": "Rp6.000 / 24 Jam",
+    "foto": "https://files.catbox.moe/9nym9r.jpg",
+    "status": "rented",
+    "expired_at": "2026-01-09T03:30:00.000Z"
+  }
+]
