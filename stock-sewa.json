@@ -5,9 +5,9 @@
     "harga": "25.000.00",
     "deskripsi": "FJ ON, SG OPM",
     "foto": "https://files.catbox.moe/l9jkfc.jpg",
-    "status": "ready",
-    "renter": null,
-    "expired_at": null
+    "status": "rented",
+    "renter": "Oside",
+    "expired_at": 1767963429178
   },
   {
     "id": 2,
