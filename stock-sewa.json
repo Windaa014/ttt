@@ -25,9 +25,9 @@
     "harga": "30.000/24 JAM",
     "deskripsi": "MAX 8, EP DARI S6",
     "foto": "https://files.catbox.moe/8z9x9v.jpg",
-    "status": "rented",
-    "renter": "Oside",
-    "expired_at": 1768006561971
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
   },
   {
     "id": 4,
