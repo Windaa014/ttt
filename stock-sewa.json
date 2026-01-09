@@ -45,8 +45,8 @@
     "harga": "20.000/24 JAM",
     "deskripsi": "MAX 4 SG LUMUT",
     "foto": "https://files.catbox.moe/68o7sx.jpg",
-    "status": "rented",
-    "renter": "Oside",
-    "expired_at": 1767956638926
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
   }
 ]
