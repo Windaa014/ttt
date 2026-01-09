@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1,
+    "nama": "SEWA AKUN FREE FIRE",
+    "harga": "25.000.00",
+    "deskripsi": "FJ ON, SG OPM",
+    "foto": "https://files.catbox.moe/l9jkfc.jpg",
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
+  }
+]
