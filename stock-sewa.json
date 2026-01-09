@@ -5,8 +5,9 @@
     "deskripsi": "tes",
     "harga": "Rp10.000 / 24 Jam",
     "foto": "https://files.catbox.moe/br34km.jpg",
-    "status": "ready",
-    "expired_at": null
+    "status": "rented",
+    "expired_at": 1767939859645,
+    "renter": "Oside"
   },
   {
     "id": 2,
