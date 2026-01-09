@@ -14,8 +14,9 @@
     "deskripsi": "tes",
     "harga": "Rp5.000 / 24 Jam",
     "foto": "https://files.catbox.moe/iewspx.jpg",
-    "status": "rented",
-    "expired_at": "2026-01-08T20:00:00.000Z"
+    "status": "ready",
+    "expired_at": null,
+    "renter": null
   },
   {
     "id": 3,
@@ -32,7 +33,8 @@
     "deskripsi": "tes",
     "harga": "Rp6.000 / 24 Jam",
     "foto": "https://files.catbox.moe/9nym9r.jpg",
-    "status": "rented",
-    "expired_at": "2026-01-09T03:30:00.000Z"
+    "status": "ready",
+    "expired_at": null,
+    "renter": null
   }
 ]
