@@ -18,5 +18,15 @@
     "status": "ready",
     "renter": null,
     "expired_at": null
+  },
+  {
+    "id": 3,
+    "nama": "SEWA AKUN FREE FIRE",
+    "harga": "30.000.00",
+    "deskripsi": "MAX 8, EP DARI S6",
+    "foto": "https://files.catbox.moe/8z9x9v.jpg",
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
   }
 ]
