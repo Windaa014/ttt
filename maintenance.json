@@ -1,7 +1,7 @@
 {
   "data": {
     "data": {
-      "active": true,
+      "active": false,
       "title": "MAINTENANCE",
       "message": "Website sedang dalam perbaikan.\nSilakan kembali lagi nanti 🙏"
     },
@@ -9,5 +9,5 @@
     "active": true
   },
   "sha": "6b7a8ce2fe1a4b8c3ecc7e7f4642bd0756bb42a3",
-  "active": true
+  "active": false
 }
