@@ -35,9 +35,9 @@
     "harga": "25.000.00",
     "deskripsi": "MAX 5, VAULT OLD BANYAK",
     "foto": "https://files.catbox.moe/qjhhca.jpg",
-    "status": "ready",
-    "renter": null,
-    "expired_at": null
+    "status": "rented",
+    "renter": "Oside",
+    "expired_at": 1767963396792
   },
   {
     "id": 5,
