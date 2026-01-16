@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "1",
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "TES",
+    "foto": "https://files.catbox.moe/c2lyay.jpg",
+    "status": "ready",
+    "harga_12": 15000,
+    "harga_24": 25000,
+    "expired_at": null
+  }
+]
