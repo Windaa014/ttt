@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": 1,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "PRIME 8, MAX 8, BUNDLE MELIMPAH, VAULT OLD READY",
+    "foto": "https://files.catbox.moe/c2lyay.jpg",
+    "harga_12": 25,
+    "harga_24": 40,
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
+  }
+]
