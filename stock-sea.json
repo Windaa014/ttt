@@ -9,5 +9,16 @@
     "status": "ready",
     "renter": null,
     "expired_at": null
+  },
+  {
+    "id": 2,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "SG REAPER, BNL ON, BUNDLE MELIMPAH",
+    "foto": "https://files.catbox.moe/axbpth.jpg",
+    "harga_12": 15,
+    "harga_24": 25,
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
   }
 ]
