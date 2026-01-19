@@ -14,5 +14,21 @@
     "status": "ready",
     "renter": null,
     "expired_at": null
+  },
+  {
+    "id": 2,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "AKUN UTAMA VNO KOKO, GUILD VAGENORM UTAMA",
+    "foto": "https://files.catbox.moe/gw693v.jpg",
+    "durasi": {
+      "12": 20000,
+      "24": 30000,
+      "72": 80000,
+      "168": 180000,
+      "gadang": 15000
+    },
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
   }
 ]
