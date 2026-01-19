@@ -46,5 +46,21 @@
     "status": "ready",
     "renter": null,
     "expired_at": null
+  },
+  {
+    "id": 4,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "MAX 1, BNL AND REGANAROK ON",
+    "foto": "https://files.catbox.moe/axbpth.jpg",
+    "durasi": {
+      "12": 20000,
+      "24": 30000,
+      "72": 75000,
+      "168": 190000,
+      "gadang": 20000
+    },
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
   }
 ]
