@@ -1,1 +1,5 @@
-[]
+{
+  "active": true,
+  "scope": "stockakun",
+  "message": "Stok akun sedang maintenance"
+}
