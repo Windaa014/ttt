@@ -30,5 +30,21 @@
     "status": "ready",
     "renter": null,
     "expired_at": null
+  },
+  {
+    "id": 3,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "MAX 5, PRIME 7 MAIN DARI S1",
+    "foto": "https://files.catbox.moe/mgzgh1.jpg",
+    "durasi": {
+      "12": 20000,
+      "24": 30000,
+      "72": 80000,
+      "168": 180000,
+      "gadang": 15000
+    },
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
   }
 ]
