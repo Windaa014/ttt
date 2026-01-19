@@ -1,5 +1,6 @@
 {
   "active": true,
-  "scope": "stockakun",
-  "message": "Stok akun sedang maintenance"
+  "scope": "all",
+  "title": "Maitanance",
+  "message": "Web ini lagi tahap perbaikan tolong kembali lagi nanti"
 }
