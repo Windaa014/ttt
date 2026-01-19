@@ -1,11 +1,11 @@
 [
   {
-    "id": 9,
-    "nama": "AKUN FREEFIRE MAX 8 S6",
-    "harga": "3.000.000.00",
-    "deskripsi": "EP S6 DST\nMAX 8\nVAULT OTW 900\nall aman",
-    "foto": "https://files.catbox.moe/l6cte6.jpg",
-    "status": "sold"
+    "id": 1,
+    "nama": "AKUN FREE FIRE",
+    "harga": "5.500.000.00",
+    "deskripsi": "FULL EPAS S7-SEKARANG, CLUBER IJO ON, MAX 12, VAULT 1K+ SG IDAMAN",
+    "foto": "https://files.catbox.moe/n758k0.jpg",
+    "status": "ready"
   },
   {
     "id": 2,
@@ -56,11 +56,11 @@
     "status": "sold"
   },
   {
-    "id": 1,
-    "nama": "AKUN FREE FIRE",
-    "harga": "5.500.000.00",
-    "deskripsi": "FULL EPAS S7-SEKARANG, CLUBER IJO ON, MAX 12, VAULT 1K+ SG IDAMAN",
-    "foto": "https://files.catbox.moe/n758k0.jpg",
-    "status": "ready"
+    "id": 9,
+    "nama": "AKUN FREEFIRE MAX 8 S6",
+    "harga": "3.000.000.00",
+    "deskripsi": "EP S6 DST\nMAX 8\nVAULT OTW 900\nall aman",
+    "foto": "https://files.catbox.moe/l6cte6.jpg",
+    "status": "sold"
   }
 ]
