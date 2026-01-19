@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 1,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "S1-S3 ON, MB 2 BULAN",
+    "foto": "https://files.catbox.moe/pjmntm.jpg",
+    "durasi": {
+      "12": 30000,
+      "24": 50000,
+      "72": 130000,
+      "168": 250000,
+      "gadang": 25000
+    },
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
+  }
+]
