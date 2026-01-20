@@ -62,5 +62,13 @@
     "deskripsi": "EP S6 DST\nMAX 8\nVAULT OTW 900\nall aman",
     "foto": "https://files.catbox.moe/l6cte6.jpg",
     "status": "sold"
+  },
+  {
+    "id": 10,
+    "nama": "AKUN FREE FIRE",
+    "harga": "270.000.00",
+    "deskripsi": "EVO 3 TW MAX 1, ANIMASI MEDKIT ON, MB ON",
+    "foto": "https://files.catbox.moe/94winz.jpg",
+    "status": "ready"
   }
 ]
