@@ -78,5 +78,21 @@
     "status": "ready",
     "renter": null,
     "expired_at": null
+  },
+  {
+    "id": 6,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "MAX 8, VAULT TW 900 EP DARI S6",
+    "foto": "https://files.catbox.moe/c2lyay.jpg",
+    "durasi": {
+      "12": 25000,
+      "24": 30000,
+      "72": 100000,
+      "168": 250000,
+      "gadang": 25000
+    },
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
   }
 ]
