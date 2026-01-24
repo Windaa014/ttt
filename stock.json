@@ -24,7 +24,7 @@
     "status": "ready"
   },
   {
-    "id": 5,
+    "id": 4,
     "nama": "AKUN FREE FIRE",
     "harga": "550.000.00",
     "deskripsi": "EP S8, CLUBER ON, REGANAROK ON, EVO 2 MAX 1",
@@ -32,7 +32,7 @@
     "status": "sold"
   },
   {
-    "id": 6,
+    "id": 5,
     "nama": "AKUN FREE FIRE",
     "harga": "2.300.000.00",
     "deskripsi": "PRIME 8, MAX 9 OTW 10",
@@ -40,7 +40,7 @@
     "status": "ready"
   },
   {
-    "id": 7,
+    "id": 6,
     "nama": "AKUN FREE FIRE",
     "harga": "280.000.00",
     "deskripsi": "ALL NARUTO PART 2 ON, EVO 4 MAX 1",
@@ -48,7 +48,7 @@
     "status": "sold"
   },
   {
-    "id": 8,
+    "id": 7,
     "nama": "AKUN FREE FIRE",
     "harga": "400.000.00",
     "deskripsi": "EVO 2 MAX 1, TAS TZY DAN KELINCI ON",
@@ -56,7 +56,7 @@
     "status": "sold"
   },
   {
-    "id": 9,
+    "id": 8,
     "nama": "AKUN FREEFIRE MAX 8 S6",
     "harga": "3.000.000.00",
     "deskripsi": "EP S6 DST\nMAX 8\nVAULT OTW 900\nall aman",
@@ -64,15 +64,15 @@
     "status": "sold"
   },
   {
-    "id": 10,
+    "id": 9,
     "nama": "AKUN FREE FIRE",
     "harga": "270.000.00",
     "deskripsi": "EVO 3 TW MAX 1, ANIMASI MEDKIT ON, MB ON",
     "foto": "https://files.catbox.moe/94winz.jpg",
-    "status": "ready"
+    "status": "sold"
   },
   {
-    "id": 11,
+    "id": 10,
     "nama": "AKUN FREE FIRE",
     "harga": "1.300.000.00",
     "deskripsi": "EP DARI S8, LIKE 128K, VAULT 860+, EVO 7 MAX 3",
@@ -80,15 +80,15 @@
     "status": "sold"
   },
   {
-    "id": 12,
+    "id": 11,
     "nama": "AKUN FREE FIRE",
     "harga": "1.200.000.00",
     "deskripsi": "MAX 5 SG REAPER x LUMUT, CLUBER ON AKUN SEMI OLD, ANIMASI MEDKIT ON",
     "foto": "https://files.catbox.moe/rq2mmi.jpg",
-    "status": "ready"
+    "status": "sold"
   },
   {
-    "id": 13,
+    "id": 12,
     "nama": "AKUN FREE FIRE",
     "harga": "1.100.000.00",
     "deskripsi": " DI 8 DIGIT, VAULT OLD BANYAK, OTW PRIME 8, MAX 5",
