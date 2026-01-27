@@ -47,5 +47,85 @@
     "status": "ready",
     "renter": null,
     "expired_at": null
+  },
+  {
+    "id": 4,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "MAX 8 OTW 9, MB ON, ANIMASI MEDKIT NEW ON, SET WASSANA BUNDLE EVENT DLL BEJIBUN",
+    "foto": "https://files.catbox.moe/spuhr9.jpg",
+    "durasi": {
+      "12": 25000,
+      "24": 40000,
+      "72": 100000,
+      "168": 250000,
+      "gadang": 25000
+    },
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
+  },
+  {
+    "id": 5,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "S1ON, CLUBER IJO IDAMAN POKER DKK ON, EVO 5 MAX 2, PRIME 7 TW 8",
+    "foto": "https://files.catbox.moe/7uoud0.jpg",
+    "durasi": {
+      "12": 25000,
+      "24": 40000,
+      "72": 100000,
+      "168": 250000,
+      "gadang": 25000
+    },
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
+  },
+  {
+    "id": 6,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "FULL EPAS S7-SEKARANG, CLUBER IJO ON, MAX 12, VAULT 1K+ SG IDAMAN",
+    "foto": "https://files.catbox.moe/1rdig7.jpg",
+    "durasi": {
+      "12": 30000,
+      "24": 50000,
+      "72": 130000,
+      "168": 250000,
+      "gadang": 30000
+    },
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
+  },
+  {
+    "id": 7,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "EP DARI S8, PROFILE GG LIKE 128K VAULT 800+, EVO 7 MAX 3",
+    "foto": "https://files.catbox.moe/0v58eg.jpg",
+    "durasi": {
+      "12": 20000,
+      "24": 30000,
+      "72": 80000,
+      "168": 180000,
+      "gadang": 20000
+    },
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
+  },
+  {
+    "id": 8,
+    "nama": "AKUN FREE FIRE",
+    "deskripsi": "DI 8 DIGIT, VAULT OLD BANYAK, OTW PRIME 8, MAX 5",
+    "foto": "https://files.catbox.moe/rq2mmi.jpg",
+    "durasi": {
+      "12": 20000,
+      "24": 30000,
+      "72": 80000,
+      "168": 180000,
+      "gadang": 20000
+    },
+    "status": "ready",
+    "renter": null,
+    "expired_at": null
   }
 ]
