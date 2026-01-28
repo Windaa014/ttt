@@ -17,70 +17,14 @@
   },
   {
     "id": 3,
-    "nama": "AKUN FREE FIRE",
-    "harga": "400.000.00",
-    "deskripsi": "EVO 2 MAX 1, TAS TZY DAN KELINCI ON",
-    "foto": "https://files.catbox.moe/db2gid.jpg",
-    "status": "sold"
-  },
-  {
-    "id": 4,
     "nama": "AKUN FREEFIRE MAX 8 S6",
     "harga": "3.000.000.00",
     "deskripsi": "EP S6 DST\nMAX 8\nVAULT OTW 900\nall aman",
     "foto": "https://files.catbox.moe/l6cte6.jpg",
-    "status": "sold"
-  },
-  {
-    "id": 5,
-    "nama": "AKUN FREE FIRE",
-    "harga": "270.000.00",
-    "deskripsi": "EVO 3 TW MAX 1, ANIMASI MEDKIT ON, MB ON",
-    "foto": "https://files.catbox.moe/94winz.jpg",
-    "status": "sold"
-  },
-  {
-    "id": 6,
-    "nama": "AKUN FREE FIRE",
-    "harga": "1.300.000.00",
-    "deskripsi": "EP DARI S8, LIKE 128K, VAULT 860+, EVO 7 MAX 3",
-    "foto": "https://files.catbox.moe/9g9qao.jpg",
-    "status": "sold"
-  },
-  {
-    "id": 7,
-    "nama": "AKUN FREE FIRE",
-    "harga": "1.200.000.00",
-    "deskripsi": "MAX 5 SG REAPER x LUMUT, CLUBER ON AKUN SEMI OLD, ANIMASI MEDKIT ON",
-    "foto": "https://files.catbox.moe/rq2mmi.jpg",
-    "status": "sold"
-  },
-  {
-    "id": 8,
-    "nama": "AKUN FREE FIRE",
-    "harga": "1.100.000.00",
-    "deskripsi": " DI 8 DIGIT, VAULT OLD BANYAK, OTW PRIME 8, MAX 5",
-    "foto": "https://files.catbox.moe/0k19sy.jpg",
     "status": "ready"
   },
   {
-    "id": 9,
-    "nama": "AKUN FREE FIRE",
-    "harga": "450.000.00",
-    "deskripsi": "ni ganti bri, SG TEROMPET MAX 3",
-    "foto": "https://files.catbox.moe/33myot.jpg",
-    "status": "ready"
-  },
-  {
-    "id": 10,
-    "nama": "AKUN FREE FIRE",
-    "harga": "350.000.00",
-    "deskripsi": " BUNDLE MEGUMU ON, EVO 2 MAX 1, BAJU BOLA ON",
-    "foto": "https://files.catbox.moe/a92b7j.jpg",
-    "status": "ready"
-  },
-  {
-    "id": 11,
+    "id": 4,
     "nama": "AKUN FREE FIRE",
     "harga": "2.300.000.00",
     "deskripsi": "MAX 8 OTW 9, MB ON, ANIMASI MEDKIT NEW ON, SET WASSANA BUNDLE EVENT DLL BEJIBUN",
@@ -88,7 +32,7 @@
     "status": "ready"
   },
   {
-    "id": 12,
+    "id": 5,
     "nama": "AKUN FREE FIRE",
     "harga": "2.500.000.00",
     "deskripsi": " S1ON, CLUBER IJO IDAMAN POKER DKK ON, EVO 5 MAX 2, PRIME 7 TW 8",
