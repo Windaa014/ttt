@@ -53,11 +53,11 @@
     "deskripsi": "MAX 8 OTW 9, MB ON, ANIMASI MEDKIT NEW ON, SET WASSANA BUNDLE EVENT DLL BEJIBUN",
     "foto": "https://files.catbox.moe/spuhr9.jpg",
     "durasi": {
-      "12": 25000,
+      "12": 30000,
       "24": 40000,
-      "72": 100000,
+      "72": 10000,
       "168": 250000,
-      "gadang": 25000
+      "gadang": 30000
     },
     "status": "ready",
     "renter": null,
