@@ -5,11 +5,11 @@
     "deskripsi": "S1-S3 ON, MB 2 BULAN",
     "foto": "https://files.catbox.moe/pjmntm.jpg",
     "durasi": {
-      "12": 30000,
+      "12": 35000,
       "24": 50000,
       "72": 130000,
       "168": 250000,
-      "gadang": 25000
+      "gadang": 30000
     },
     "status": "ready",
     "renter": null,
