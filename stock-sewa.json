@@ -24,14 +24,13 @@
       "12": 20000,
       "24": 30000,
       "72": 80000,
-      "168": 180000,
-      "gadang": 20000
+      "168": 150000,
+      "gadang": 250000
     },
     "status": "ready",
     "renter": null,
     "expired_at": null
   },
-  
   {
     "id": 3,
     "nama": "AKUN FREE FIRE",
