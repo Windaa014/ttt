@@ -85,11 +85,11 @@
     "deskripsi": "FULL EPAS S7-SEKARANG, CLUBER IJO ON, MAX 12, VAULT 1K+ SG IDAMAN",
     "foto": "https://files.catbox.moe/1rdig7.jpg",
     "durasi": {
-      "12": 30000,
-      "24": 50000,
-      "72": 130000,
-      "168": 250000,
-      "gadang": 30000
+      "12": 40000,
+      "24": 60000,
+      "72": 150000,
+      "168": 280000,
+      "gadang": 35000
     },
     "status": "ready",
     "renter": null,
