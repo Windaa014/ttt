@@ -2,22 +2,6 @@
   {
     "id": 1,
     "nama": "AKUN FREE FIRE",
-    "deskripsi": "S1-S3 ON, MB 2 BULAN",
-    "foto": "https://files.catbox.moe/pjmntm.jpg",
-    "durasi": {
-      "12": 35000,
-      "24": 50000,
-      "72": 130000,
-      "168": 250000,
-      "gadang": 30000
-    },
-    "status": "ready",
-    "renter": null,
-    "expired_at": null
-  },
-  {
-    "id": 2,
-    "nama": "AKUN FREE FIRE",
     "deskripsi": "AKUN UTAMA VNO KOKO, GUILD VAGENORM UTAMA",
     "foto": "https://files.catbox.moe/gw693v.jpg",
     "durasi": {
@@ -32,23 +16,7 @@
     "expired_at": null
   },
   {
-    "id": 3,
-    "nama": "AKUN FREE FIRE",
-    "deskripsi": "MAX 1, BNL AND REGANAROK ON",
-    "foto": "https://files.catbox.moe/axbpth.jpg",
-    "durasi": {
-      "12": 25000,
-      "24": 30000,
-      "72": 75000,
-      "168": 190000,
-      "gadang": 25000
-    },
-    "status": "ready",
-    "renter": null,
-    "expired_at": null
-  },
-  {
-    "id": 4,
+    "id": 2,
     "nama": "AKUN FREE FIRE",
     "deskripsi": "MAX 8 OTW 9, MB ON, ANIMASI MEDKIT NEW ON, SET WASSANA BUNDLE EVENT DLL BEJIBUN",
     "foto": "https://files.catbox.moe/spuhr9.jpg",
@@ -64,7 +32,7 @@
     "expired_at": null
   },
   {
-    "id": 5,
+    "id": 3,
     "nama": "AKUN FREE FIRE",
     "deskripsi": "S1ON, CLUBER IJO IDAMAN POKER DKK ON, EVO 5 MAX 2, PRIME 7 TW 8",
     "foto": "https://files.catbox.moe/7uoud0.jpg",
@@ -80,23 +48,7 @@
     "expired_at": null
   },
   {
-    "id": 6,
-    "nama": "AKUN FREE FIRE",
-    "deskripsi": "FULL EPAS S7-SEKARANG, CLUBER IJO ON, MAX 12, VAULT 1K+ SG IDAMAN",
-    "foto": "https://files.catbox.moe/1rdig7.jpg",
-    "durasi": {
-      "12": 40000,
-      "24": 60000,
-      "72": 150000,
-      "168": 280000,
-      "gadang": 35000
-    },
-    "status": "ready",
-    "renter": null,
-    "expired_at": null
-  },
-  {
-    "id": 7,
+    "id": 4,
     "nama": "AKUN FREE FIRE",
     "deskripsi": "MAX 8, VAULT TW 900 EP DARI S6, MB ON 2 BULAN, BUNDLE MEGUMI ON",
     "foto": "https://files.catbox.moe/c2lyay.jpg",
