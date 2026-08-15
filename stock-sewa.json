@@ -31,5 +31,16 @@
     },
     "kategori": "pelajar",
     "status": "ready"
+  },
+  {
+    "foto": "https://files.catbox.moe/8diud9.jpg",
+    "nama": "Sewa Akun Free Fire",
+    "deskripsi": "Opm On\nMax Lumayan\nSkin Berlimpah\nSiap Tempurr",
+    "durasi": {
+      "8": "10.000",
+      "24": "20.000"
+    },
+    "kategori": "pelajar",
+    "status": "ready"
   }
 ]
