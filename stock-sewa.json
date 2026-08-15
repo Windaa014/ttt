@@ -7,8 +7,6 @@
       "8": "10.000",
       "20": "20.000"
     },
-    "status": "rented",
-    "expired_at": "2026-08-15T17:53:00.586Z",
-    "durasi_sewa": 8
+    "status": "ready"
   }
 ]
