@@ -1,0 +1,51 @@
+name: Update Sewa Status
+
+on:
+  repository_dispatch:
+    types: [sewa-paid]
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        
+      - name: Update status sewa
+        run: |
+          # Ambil data dari payload
+          PRODUK="${{ github.event.client_payload.produk }}"
+          KATEGORI="${{ github.event.client_payload.kategori }}"
+          ORDER_ID="${{ github.event.client_payload.order_id }}"
+          
+          echo "📦 Produk: $PRODUK"
+          echo "🏷️ Kategori: $KATEGORI"
+          echo "🆔 Order: $ORDER_ID"
+          
+          # Update file stock-sewa.json
+          jq --arg produk "$PRODUK" --arg kategori "$KATEGORI" '
+            map(if .nama == $produk and .kategori == $kategori and .status == "ready" then 
+              .status = "rented" | 
+              .expired_at = (now + 86400 | todateiso8601)
+            else . end)
+          ' stock-sewa.json > stock-sewa.tmp.json
+          
+          mv stock-sewa.tmp.json stock-sewa.json
+          
+          # Commit & push
+          git config user.name "KOKOPAY Bot"
+          git config user.email "bot@kokopay.com"
+          git add stock-sewa.json
+          git commit -m "[AUTO] Update status: $PRODUK - rented (Order: $ORDER_ID)" || echo "No changes"
+          git push
+          
+      - name: Send Telegram notification
+        run: |
+          curl -X POST "https://api.telegram.org/bot${{ secrets.BOT_TOKEN }}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "chat_id": "${{ secrets.ADMIN_CHAT_ID }}",
+              "text": "✅ *STATUS UPDATED!*\n\n📱 Produk: ${{ github.event.client_payload.produk }}\n🏷️ Kategori: ${{ github.event.client_payload.kategori }}\n🆔 Order: ${{ github.event.client_payload.order_id }}\n📊 Status: RENTED\n\n🔑 *AKUN SUDAH DIKIRIM VIA TELEGRAM*",
+              "parse_mode": "Markdown"
+            }'

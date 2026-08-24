@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/webhook-midtrans.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "api/index.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "api/send-location.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "api/check-payment.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/webhook-midtrans",
+      "dest": "/api/webhook-midtrans.js"
+    },
+    {
+      "src": "/api/send-location",
+      "dest": "/api/send-location.js"
+    },
+    {
+      "src": "/api/check-payment",
+      "dest": "/api/check-payment.js"
+    },
+    {
+      "src": "/api",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
