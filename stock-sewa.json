@@ -82,5 +82,16 @@
     "email": "akunff006@gmail.com",
     "password": "FreeFire678",
     "uid": "1234567895"
+  },
+  {
+    "foto": "https://files.catbox.moe/6jupw7.jpg",
+    "nama": "Sewa Akun Free Fire",
+    "deskripsi": "etmin malas yepping\npokok nya hedon semuaa\nsesuai gambar ya  :v",
+    "durasi": {
+      "8": "20.000",
+      "24": "40.000"
+    },
+    "kategori": "sultan",
+    "status": "ready"
   }
 ]
