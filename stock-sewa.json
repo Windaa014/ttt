@@ -92,7 +92,10 @@
       "24": "40.000"
     },
     "kategori": "sultan",
-    "status": "ready"
+    "status": "ready",
+    "email": "akunsultan001@gmail.com",
+    "password": "Sultan123",
+    "uid": "9876543210"
   },
   {
     "foto": "https://files.catbox.moe/r9h8cn.jpg",
@@ -103,7 +106,10 @@
       "24": "60.000"
     },
     "kategori": "sultan",
-    "status": "ready"
+    "status": "ready",
+    "email": "akunsultan002@gmail.com",
+    "password": "Sultan456",
+    "uid": "9876543211"
   },
   {
     "foto": "https://files.catbox.moe/h75jxu.jpg",
@@ -114,7 +120,10 @@
       "24": "70.000"
     },
     "kategori": "sultan",
-    "status": "ready"
+    "status": "ready",
+    "email": "akunsultan003@gmail.com",
+    "password": "Sultan789",
+    "uid": "9876543212"
   },
   {
     "foto": "https://files.catbox.moe/k3689a.jpg",
@@ -125,7 +134,10 @@
       "24": "40.000"
     },
     "kategori": "sultan",
-    "status": "ready"
+    "status": "ready",
+    "email": "akunsultan004@gmail.com",
+    "password": "Sultan012",
+    "uid": "9876543213"
   },
   {
     "foto": "https://files.catbox.moe/7mp8ci.jpg",
@@ -136,7 +148,10 @@
       "24": "70.000"
     },
     "kategori": "sultan",
-    "status": "ready"
+    "status": "ready",
+    "email": "akunsultan005@gmail.com",
+    "password": "Sultan345",
+    "uid": "9876543214"
   },
   {
     "foto": "https://files.catbox.moe/kc2egq.jpg",
@@ -147,6 +162,9 @@
       "24": "50.000"
     },
     "kategori": "sultan",
-    "status": "ready"
+    "status": "ready",
+    "email": "akunsultan006@gmail.com",
+    "password": "Sultan678",
+    "uid": "9876543215"
   }
 ]
