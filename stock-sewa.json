@@ -126,5 +126,16 @@
     },
     "kategori": "sultan",
     "status": "ready"
+  },
+  {
+    "foto": "https://files.catbox.moe/7mp8ci.jpg",
+    "nama": "Sewa Akun Free Fire",
+    "deskripsi": "etmin malas yepping\npokok nya hedon semuaa\nsesuai gambar ya  :v",
+    "durasi": {
+      "8": "40.000",
+      "24": "70.000"
+    },
+    "kategori": "sultan",
+    "status": "ready"
   }
 ]
