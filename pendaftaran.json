@@ -26,26 +26,10 @@
       "teams": [
         {
           "slot": 1,
-          "teamName": "EVOS",
-          "teamTag": "EVS",
-          "captainName": "John Doe",
-          "logoUrl": "https://example.com/logo-evos.png"
-        },
-
-        {
-          "slot": 2,
-          "teamName": "RRQ",
-          "teamTag": "RRQ",
-          "captainName": "Budi",
-          "logoUrl": "https://example.com/logo-rrq.png"
-        },
-
-        {
-          "slot": 3,
-          "teamName": "ONIC",
-          "teamTag": "ONC",
-          "captainName": "Andi",
-          "logoUrl": "https://example.com/logo-onic.png"
+          "teamName": "Vagenorm",
+          "teamTag": "Vno",
+          "captainName": "Abri",
+          "logoUrl": " https://files.catbox.moe/ide0nv.jpg"
         }
       ]
     }
