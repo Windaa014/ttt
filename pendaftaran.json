@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T11:23:47.810Z",
+  "updatedAt": "2026-09-03T11:53:43.032Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -55,6 +55,13 @@
           "captainName": "Adriann",
           "logoUrl": "https://files.catbox.moe/y1vvda.jpg",
           "registeredAt": "2026-09-03T11:23:47.810Z"
+        },
+        {
+          "slot": 6,
+          "teamName": "DKK BOGOR",
+          "captainName": "als",
+          "logoUrl": "https://files.catbox.moe/vrejim.jpg",
+          "registeredAt": "2026-09-03T11:53:43.032Z"
         }
       ]
     }
