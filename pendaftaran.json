@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T11:53:43.032Z",
+  "updatedAt": "2026-09-03T11:55:09.359Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -58,10 +58,10 @@
         },
         {
           "slot": 6,
-          "teamName": "DKK BOGOR",
-          "captainName": "als",
-          "logoUrl": "https://files.catbox.moe/vrejim.jpg",
-          "registeredAt": "2026-09-03T11:53:43.032Z"
+          "teamName": "ANTIQEWAN²¹",
+          "captainName": "Nt vinZ",
+          "logoUrl": "https://files.catbox.moe/qy9i5r.jpg",
+          "registeredAt": "2026-09-03T11:55:09.359Z"
         }
       ]
     }
