@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T09:58:32.837Z",
+  "updatedAt": "2026-09-03T10:01:35.427Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -23,10 +23,10 @@
       "teams": [
         {
           "slot": 1,
-          "teamName": "POLI JATI ESPORT",
-          "captainName": "VNO RIYANN",
-          "logoUrl": "https://files.catbox.moe/t97xdb.jpg",
-          "registeredAt": "2026-09-03T09:58:32.836Z"
+          "teamName": "KAWAN OZAY",
+          "captainName": "ALVIO ALANA",
+          "logoUrl": "https://files.catbox.moe/g2y4pv.jpg",
+          "registeredAt": "2026-09-03T10:01:35.427Z"
         }
       ]
     }
