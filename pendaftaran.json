@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T11:15:59.618Z",
+  "updatedAt": "2026-09-03T11:23:47.810Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -48,6 +48,13 @@
           "captainName": "STARS3・Ditzタ",
           "logoUrl": "https://files.catbox.moe/dsxv5f.jpg",
           "registeredAt": "2026-09-03T11:15:59.618Z"
+        },
+        {
+          "slot": 5,
+          "teamName": "SMKN 1 CISARUA",
+          "captainName": "Adriann",
+          "logoUrl": "https://files.catbox.moe/y1vvda.jpg",
+          "registeredAt": "2026-09-03T11:23:47.810Z"
         }
       ]
     }
