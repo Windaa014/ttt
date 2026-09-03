@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T10:14:38.897Z",
+  "updatedAt": "2026-09-03T11:15:59.618Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -41,6 +41,13 @@
           "captainName": "keped",
           "logoUrl": "https://files.catbox.moe/dsw1r5.jpg",
           "registeredAt": "2026-09-03T10:14:38.896Z"
+        },
+        {
+          "slot": 4,
+          "teamName": "SMKKARTEK1",
+          "captainName": "STARS3・Ditzタ",
+          "logoUrl": "https://files.catbox.moe/dsxv5f.jpg",
+          "registeredAt": "2026-09-03T11:15:59.618Z"
         }
       ]
     }
