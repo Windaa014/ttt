@@ -1,26 +1,21 @@
 {
-  "updatedAt": "2026-09-04T11:59:03.536Z",
+  "updatedAt": "2026-09-03T00:00:00+07:00",
   "tournaments": [
     {
       "id": "ffc-001",
       "name": "Friday Fire Cup #01",
-      "date": "2026-09-04",
-      "time": "20:00",
+      "date": "2026-09-11",
+      "time": "22:00",
       "timezone": "WIB",
       "status": "open",
       "format": {
         "mode": "Battle Royale",
-        "type": "Squad Mode",
         "teams": 12,
         "playersPerTeam": 4,
         "totalPlayers": 48
       },
-      "maps": [
-        "Bermuda",
-        "Purgatory",
-        "Kalahari"
-      ],
-      "teams": []
+      "teams": [],
+      "champions": []
     }
   ]
 }
