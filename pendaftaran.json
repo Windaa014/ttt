@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T12:06:18.541Z",
+  "updatedAt": "2026-09-07T12:06:41.471Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -64,7 +64,104 @@
         "Purgatory",
         "Kalahari"
       ],
-      "teams": [],
+      "teams": [
+        {
+          "slot": 1,
+          "teamName": "AE",
+          "teamTag": "AE",
+          "captainName": "Rizky Ramadhan",
+          "logoUrl": "https://example.com/logo-ae.png",
+          "registeredAt": "2026-09-08T10:00:00+07:00"
+        },
+        {
+          "slot": 2,
+          "teamName": "BTR",
+          "teamTag": "BTR",
+          "captainName": "Fajar Nugraha",
+          "logoUrl": "https://example.com/logo-btr.png",
+          "registeredAt": "2026-09-08T10:15:00+07:00"
+        },
+        {
+          "slot": 3,
+          "teamName": "GEEK",
+          "teamTag": "GEEK",
+          "captainName": "Dimas Prasetyo",
+          "logoUrl": "https://example.com/logo-geek.png",
+          "registeredAt": "2026-09-08T10:30:00+07:00"
+        },
+        {
+          "slot": 4,
+          "teamName": "DEWA",
+          "teamTag": "DWA",
+          "captainName": "Hendra Wijaya",
+          "logoUrl": "https://example.com/logo-dewa.png",
+          "registeredAt": "2026-09-08T11:00:00+07:00"
+        },
+        {
+          "slot": 5,
+          "teamName": "EVOS",
+          "teamTag": "EVS",
+          "captainName": "John Doe",
+          "logoUrl": "https://example.com/logo-evos.png",
+          "registeredAt": "2026-09-08T11:15:00+07:00"
+        },
+        {
+          "slot": 6,
+          "teamName": "RRQ",
+          "teamTag": "RRQ",
+          "captainName": "Budi Santoso",
+          "logoUrl": "https://example.com/logo-rrq.png",
+          "registeredAt": "2026-09-08T11:30:00+07:00"
+        },
+        {
+          "slot": 7,
+          "teamName": "ONIC",
+          "teamTag": "ONC",
+          "captainName": "Andi Saputra",
+          "logoUrl": "https://example.com/logo-onic.png",
+          "registeredAt": "2026-09-08T12:00:00+07:00"
+        },
+        {
+          "slot": 8,
+          "teamName": "VAGENORM",
+          "teamTag": "VGN",
+          "captainName": "Abri",
+          "logoUrl": "https://example.com/logo-vagenorm.png",
+          "registeredAt": "2026-09-08T12:30:00+07:00"
+        },
+        {
+          "slot": 9,
+          "teamName": "SIREN",
+          "teamTag": "SRN",
+          "captainName": "Yoga Pratama",
+          "logoUrl": "https://example.com/logo-siren.png",
+          "registeredAt": "2026-09-08T13:00:00+07:00"
+        },
+        {
+          "slot": 10,
+          "teamName": "MORPH",
+          "teamTag": "MRP",
+          "captainName": "Bayu Setiawan",
+          "logoUrl": "https://example.com/logo-morph.png",
+          "registeredAt": "2026-09-08T13:30:00+07:00"
+        },
+        {
+          "slot": 11,
+          "teamName": "ECHELON",
+          "teamTag": "ECH",
+          "captainName": "Reza Maulana",
+          "logoUrl": "https://example.com/logo-echelon.png",
+          "registeredAt": "2026-09-08T14:00:00+07:00"
+        },
+        {
+          "slot": 12,
+          "teamName": "VALIANT",
+          "teamTag": "VAL",
+          "captainName": "Surya Aditya",
+          "logoUrl": "https://example.com/logo-valiant.png",
+          "registeredAt": "2026-09-08T14:30:00+07:00"
+        }
+      ],
       "champions": [
         {
           "position": "Juara 1",
@@ -108,24 +205,7 @@
         "Purgatory",
         "Kalahari"
       ],
-      "teams": [
-        {
-          "slot": 1,
-          "teamName": "RRQ",
-          "teamTag": "RRQ",
-          "captainName": "Budi Santoso",
-          "logoUrl": "https://example.com/logo-rrq.png",
-          "registeredAt": "2026-09-15T10:15:00+07:00"
-        },
-        {
-          "slot": 2,
-          "teamName": "ONIC",
-          "teamTag": "ONC",
-          "captainName": "Andi Saputra",
-          "logoUrl": "https://example.com/logo-onic.png",
-          "registeredAt": "2026-09-15T10:30:00+07:00"
-        }
-      ],
+      "teams": [],
       "champions": []
     }
   ]
