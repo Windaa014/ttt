@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:30:00+07:00",
+  "updatedAt": "2026-09-07T08:56:44.105Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -7,7 +7,7 @@
       "date": "2026-09-11",
       "time": "20:00",
       "timezone": "WIB",
-      "status": "finished",
+      "status": "closed",
       "format": {
         "mode": "Battle Royale",
         "type": "Squad Mode",
@@ -15,7 +15,11 @@
         "playersPerTeam": 4,
         "totalPlayers": 48
       },
-      "maps": ["Bermuda", "Purgatory", "Kalahari"],
+      "maps": [
+        "Bermuda",
+        "Purgatory",
+        "Kalahari"
+      ],
       "teams": [
         {
           "slot": 1,
@@ -152,7 +156,11 @@
         "playersPerTeam": 4,
         "totalPlayers": 48
       },
-      "maps": ["Bermuda", "Purgatory", "Kalahari"],
+      "maps": [
+        "Bermuda",
+        "Purgatory",
+        "Kalahari"
+      ],
       "teams": [
         {
           "slot": 1,
@@ -289,7 +297,11 @@
         "playersPerTeam": 4,
         "totalPlayers": 48
       },
-      "maps": ["Bermuda", "Purgatory", "Kalahari"],
+      "maps": [
+        "Bermuda",
+        "Purgatory",
+        "Kalahari"
+      ],
       "teams": [
         {
           "slot": 1,
