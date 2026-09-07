@@ -59,29 +59,7 @@
         "Kalahari"
       ],
       "teams": [],
-      "champions": [
-        {
-          "position": "Juara 1",
-          "teamName": "AE",
-          "teamTag": "AE",
-          "captainName": "Rizky Ramadhan",
-          "prize": 25000
-        },
-        {
-          "position": "Juara 2",
-          "teamName": "BTR",
-          "teamTag": "BTR",
-          "captainName": "Fajar Nugraha",
-          "prize": 15000
-        },
-        {
-          "position": "Juara 3",
-          "teamName": "GEEK",
-          "teamTag": "GEEK",
-          "captainName": "Dimas Prasetyo",
-          "prize": 10000
-        }
-      ]
+      "champions": []
     },
     {
       "id": "ffc-003",
