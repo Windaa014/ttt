@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T08:57:30.768Z",
+  "updatedAt": "2026-09-07T08:57:45.035Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -302,7 +302,24 @@
         "Purgatory",
         "Kalahari"
       ],
-      "teams": [],
+      "teams": [
+        {
+          "slot": 1,
+          "teamName": "RRQ",
+          "teamTag": "RRQ",
+          "captainName": "Budi Santoso",
+          "logoUrl": "https://example.com/logo-rrq.png",
+          "registeredAt": "2026-09-15T10:15:00+07:00"
+        },
+        {
+          "slot": 2,
+          "teamName": "ONIC",
+          "teamTag": "ONC",
+          "captainName": "Andi Saputra",
+          "logoUrl": "https://example.com/logo-onic.png",
+          "registeredAt": "2026-09-15T10:30:00+07:00"
+        }
+      ],
       "champions": []
     }
   ]
