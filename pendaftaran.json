@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T08:56:44.105Z",
+  "updatedAt": "2026-09-07T08:57:30.768Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -7,7 +7,7 @@
       "date": "2026-09-11",
       "time": "20:00",
       "timezone": "WIB",
-      "status": "closed",
+      "status": "finished",
       "format": {
         "mode": "Battle Royale",
         "type": "Squad Mode",
@@ -302,32 +302,7 @@
         "Purgatory",
         "Kalahari"
       ],
-      "teams": [
-        {
-          "slot": 1,
-          "teamName": "EVOS",
-          "teamTag": "EVS",
-          "captainName": "John Doe",
-          "logoUrl": "https://example.com/logo-evos.png",
-          "registeredAt": "2026-09-15T10:00:00+07:00"
-        },
-        {
-          "slot": 2,
-          "teamName": "RRQ",
-          "teamTag": "RRQ",
-          "captainName": "Budi Santoso",
-          "logoUrl": "https://example.com/logo-rrq.png",
-          "registeredAt": "2026-09-15T10:15:00+07:00"
-        },
-        {
-          "slot": 3,
-          "teamName": "ONIC",
-          "teamTag": "ONC",
-          "captainName": "Andi Saputra",
-          "logoUrl": "https://example.com/logo-onic.png",
-          "registeredAt": "2026-09-15T10:30:00+07:00"
-        }
-      ],
+      "teams": [],
       "champions": []
     }
   ]
