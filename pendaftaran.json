@@ -5,7 +5,7 @@
       "id": "ffc-001",
       "name": "Friday Fire Cup #01",
       "date": "2026-09-11",
-      "time": "20:00",
+      "time": "22:00",
       "timezone": "WIB",
       "status": "finished",
       "format": {
@@ -128,7 +128,7 @@
       "id": "ffc-002",
       "name": "Friday Fire Cup #02",
       "date": "2026-09-18",
-      "time": "20:00",
+      "time": "22:00",
       "timezone": "WIB",
       "status": "finished",
       "format": {
@@ -150,7 +150,7 @@
       "id": "ffc-003",
       "name": "Friday Fire Cup #03",
       "date": "2026-09-25",
-      "time": "20:00",
+      "time": "22:00",
       "timezone": "WIB",
       "status": "open",
       "format": {
