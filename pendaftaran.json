@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T15:17:56.040Z",
+  "updatedAt": "2026-09-10T09:43:23.987Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -20,7 +20,15 @@
         "Purgatory",
         "Kalahari"
       ],
-      "teams": [],
+      "teams": [
+        {
+          "slot": 1,
+          "teamName": "EZZ WINN",
+          "captainName": "Rayzens",
+          "logoUrl": "https://files.catbox.moe/1l8960.jpg",
+          "registeredAt": "2026-09-10T09:43:23.984Z"
+        }
+      ],
       "champions": [
         {
           "position": "Juara 1",
