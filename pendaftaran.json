@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T09:44:15.499Z",
+  "updatedAt": "2026-09-10T10:01:59.105Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -27,6 +27,13 @@
           "captainName": "KD RIYANN",
           "logoUrl": "https://files.catbox.moe/qrwlwo.jpg",
           "registeredAt": "2026-09-10T09:44:15.499Z"
+        },
+        {
+          "slot": 2,
+          "teamName": "EZZ WINN",
+          "captainName": "Rayzens",
+          "logoUrl": "https://files.catbox.moe/1l8960.jpg",
+          "registeredAt": "2026-09-10T10:01:59.104Z"
         }
       ],
       "champions": [
