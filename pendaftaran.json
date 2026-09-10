@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T22:34:17.690Z",
+  "updatedAt": "2026-09-10T22:35:23.264Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -62,6 +62,13 @@
           "captainName": "alsyourfav",
           "logoUrl": "https://files.catbox.moe/y8ucmz.jpg",
           "registeredAt": "2026-09-10T22:34:17.689Z"
+        },
+        {
+          "slot": 7,
+          "teamName": "LEGACY",
+          "captainName": "SAS.Irfann",
+          "logoUrl": "https://files.catbox.moe/ejoc22.jpg",
+          "registeredAt": "2026-09-10T22:35:23.264Z"
         }
       ],
       "champions": [
