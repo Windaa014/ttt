@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T09:43:23.987Z",
+  "updatedAt": "2026-09-10T09:44:15.499Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -23,10 +23,10 @@
       "teams": [
         {
           "slot": 1,
-          "teamName": "EZZ WINN",
-          "captainName": "Rayzens",
-          "logoUrl": "https://files.catbox.moe/1l8960.jpg",
-          "registeredAt": "2026-09-10T09:43:23.984Z"
+          "teamName": "KOLIANTU",
+          "captainName": "KD RIYANN",
+          "logoUrl": "https://files.catbox.moe/qrwlwo.jpg",
+          "registeredAt": "2026-09-10T09:44:15.499Z"
         }
       ],
       "champions": [
