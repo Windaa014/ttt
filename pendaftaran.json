@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T12:42:28.352Z",
+  "updatedAt": "2026-09-10T15:26:25.084Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -48,6 +48,13 @@
           "captainName": "DAM 1",
           "logoUrl": "https://files.catbox.moe/8s6712.jpg",
           "registeredAt": "2026-09-10T12:42:28.352Z"
+        },
+        {
+          "slot": 5,
+          "teamName": "nuelback",
+          "captainName": "Lúxhandsome",
+          "logoUrl": "https://files.catbox.moe/rg3y4s.jpg",
+          "registeredAt": "2026-09-10T15:26:25.084Z"
         }
       ],
       "champions": [
