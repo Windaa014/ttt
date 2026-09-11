@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:45:19.489Z",
+  "updatedAt": "2026-09-11T12:16:42.858Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -97,6 +97,13 @@
           "captainName": "naynay holic",
           "logoUrl": "https://files.catbox.moe/gpzxrh.jpg",
           "registeredAt": "2026-09-11T11:45:19.489Z"
+        },
+        {
+          "slot": 12,
+          "teamName": "BSBTEAM",
+          "captainName": "much",
+          "logoUrl": "https://files.catbox.moe/dwc6p1.jpg",
+          "registeredAt": "2026-09-11T12:16:42.858Z"
         }
       ],
       "champions": [
