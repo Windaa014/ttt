@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T22:35:23.264Z",
+  "updatedAt": "2026-09-11T00:05:01.671Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -69,6 +69,13 @@
           "captainName": "SAS.Irfann",
           "logoUrl": "https://files.catbox.moe/ejoc22.jpg",
           "registeredAt": "2026-09-10T22:35:23.264Z"
+        },
+        {
+          "slot": 8,
+          "teamName": "area 15",
+          "captainName": "devzzz15",
+          "logoUrl": "https://files.catbox.moe/js1i2o.jpg",
+          "registeredAt": "2026-09-11T00:05:01.671Z"
         }
       ],
       "champions": [
