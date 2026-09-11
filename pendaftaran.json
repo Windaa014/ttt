@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:42:55.208Z",
+  "updatedAt": "2026-09-11T11:44:33.213Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -83,6 +83,13 @@
           "captainName": "Goknongpro18",
           "logoUrl": "https://files.catbox.moe/rbvs4p.jpg",
           "registeredAt": "2026-09-11T11:42:55.208Z"
+        },
+        {
+          "slot": 10,
+          "teamName": "evos manukung",
+          "captainName": "Tumin",
+          "logoUrl": "https://files.catbox.moe/0ky8bb.jpg",
+          "registeredAt": "2026-09-11T11:44:33.213Z"
         }
       ],
       "champions": [
