@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T16:27:32.284Z",
+  "updatedAt": "2026-09-11T16:28:36.227Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -144,7 +144,23 @@
         "Kalahari"
       ],
       "teams": [],
-      "champions": []
+      "champions": [
+        {
+          "position": "Juara 1",
+          "teamName": "VNO INISIAL",
+          "prize": 25000
+        },
+        {
+          "position": "Juara 2",
+          "teamName": "LEGACY",
+          "prize": 15000
+        },
+        {
+          "position": "Juara 3",
+          "teamName": "KOLIANTU",
+          "prize": 10000
+        }
+      ]
     },
     {
       "id": "ffc-003",
