@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:44:33.213Z",
+  "updatedAt": "2026-09-11T11:45:19.489Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -90,6 +90,13 @@
           "captainName": "Tumin",
           "logoUrl": "https://files.catbox.moe/0ky8bb.jpg",
           "registeredAt": "2026-09-11T11:44:33.213Z"
+        },
+        {
+          "slot": 11,
+          "teamName": "anti lose",
+          "captainName": "naynay holic",
+          "logoUrl": "https://files.catbox.moe/gpzxrh.jpg",
+          "registeredAt": "2026-09-11T11:45:19.489Z"
         }
       ],
       "champions": [
