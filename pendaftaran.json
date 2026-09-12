@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-12T11:03:42.246Z",
+  "updatedAt": "2026-09-12T16:04:13.138Z",
   "tournaments": [
     {
       "id": "ffc-001",
       "name": "Friday Fire Cup #01",
-      "date": "2026-09-04",
+      "date": "2026-09-11",
       "time": "22:00",
       "timezone": "WIB",
       "status": "finished",
@@ -259,7 +259,15 @@
         "Purgatory",
         "Kalahari"
       ],
-      "teams": [],
+      "teams": [
+        {
+          "slot": 1,
+          "teamName": "Bude Ecik",
+          "captainName": "Bude",
+          "logoUrl": "https://files.catbox.moe/qcmoot.jpg",
+          "registeredAt": "2026-09-12T16:04:13.131Z"
+        }
+      ],
       "champions": []
     },
     {
