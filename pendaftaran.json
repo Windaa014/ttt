@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T16:28:36.227Z",
+  "updatedAt": "2026-09-12T01:01:39.689Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -21,7 +21,7 @@
         "Kalahari"
       ],
       "teams": [
-{
+        {
           "slot": 1,
           "teamName": "KAWAN OZAY",
           "captainName": "ALVIO ALANA",
@@ -105,7 +105,7 @@
           "logoUrl": "https://files.catbox.moe/6h6pgh.jpg",
           "registeredAt": "2026-09-03T11:55:09.359Z"
         }
-],
+      ],
       "champions": [
         {
           "position": "Juara 1",
@@ -144,7 +144,7 @@
         "Kalahari"
       ],
       "teams": [
-{
+        {
           "slot": 1,
           "teamName": "KOLIANTU",
           "captainName": "KD RIYANN",
@@ -228,7 +228,7 @@
           "logoUrl": "https://files.catbox.moe/dwc6p1.jpg",
           "registeredAt": "2026-09-11T12:16:42.858Z"
         }
-],
+      ],
       "champions": [
         {
           "position": "Juara 1",
