@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T01:01:39.689Z",
+  "updatedAt": "2026-09-12T01:07:10.770Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -92,17 +92,10 @@
           "registeredAt": "2026-09-03T11:55:09.359Z"
         },
         {
-          "slot": 12,
+          "slot": 11,
           "teamName": "Epos India",
           "captainName": "Nopal",
           "logoUrl": "https://files.catbox.moe/fw0vcd.jpg",
-          "registeredAt": "2026-09-03T11:55:09.359Z"
-        },
-        {
-          "slot": 11,
-          "teamName": "SMK BANI USMAN MANUNGGAL",
-          "captainName": "Tegar",
-          "logoUrl": "https://files.catbox.moe/6h6pgh.jpg",
           "registeredAt": "2026-09-03T11:55:09.359Z"
         }
       ],
