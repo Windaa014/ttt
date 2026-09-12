@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T16:05:33.147Z",
+  "updatedAt": "2026-09-12T16:12:13.825Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -259,7 +259,15 @@
         "Purgatory",
         "Kalahari"
       ],
-      "teams": [],
+      "teams": [
+        {
+          "slot": 1,
+          "teamName": "Tes Abc",
+          "captainName": "Tes",
+          "logoUrl": "https://files.catbox.moe/xwjmod.jpg",
+          "registeredAt": "2026-09-12T16:12:13.825Z"
+        }
+      ],
       "champions": []
     },
     {
