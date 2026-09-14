@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T16:14:17.061Z",
+  "updatedAt": "2026-09-14T08:02:00.672Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -259,7 +259,15 @@
         "Purgatory",
         "Kalahari"
       ],
-      "teams": [],
+      "teams": [
+        {
+          "slot": 1,
+          "teamName": "EL PASIF",
+          "captainName": "POLIJE ZALDY",
+          "logoUrl": "https://files.catbox.moe/s55xe6.jpg",
+          "registeredAt": "2026-09-14T08:02:00.672Z"
+        }
+      ],
       "champions": []
     },
     {
