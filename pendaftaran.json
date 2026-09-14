@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T08:02:00.672Z",
+  "updatedAt": "2026-09-14T14:33:20.560Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -266,6 +266,13 @@
           "captainName": "POLIJE ZALDY",
           "logoUrl": "https://files.catbox.moe/s55xe6.jpg",
           "registeredAt": "2026-09-14T08:02:00.672Z"
+        },
+        {
+          "slot": 2,
+          "teamName": "VOXZEY",
+          "captainName": "Chaa",
+          "logoUrl": "https://files.catbox.moe/99hegk.jpg",
+          "registeredAt": "2026-09-14T14:33:20.560Z"
         }
       ],
       "champions": []
