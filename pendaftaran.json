@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T10:06:19.222Z",
+  "updatedAt": "2026-09-17T11:31:00.870Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -280,6 +280,13 @@
           "captainName": "PALZxDIBNYO",
           "logoUrl": "https://files.catbox.moe/v9hlvu.jpg",
           "registeredAt": "2026-09-17T10:06:19.222Z"
+        },
+        {
+          "slot": 4,
+          "teamName": "KAWAN FADIL",
+          "captainName": "KD RIYANN",
+          "logoUrl": "https://files.catbox.moe/20fvxf.jpg",
+          "registeredAt": "2026-09-17T11:31:00.870Z"
         }
       ],
       "champions": []
