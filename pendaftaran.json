@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T14:33:20.560Z",
+  "updatedAt": "2026-09-17T10:06:19.222Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -273,6 +273,13 @@
           "captainName": "Chaa",
           "logoUrl": "https://files.catbox.moe/99hegk.jpg",
           "registeredAt": "2026-09-14T14:33:20.560Z"
+        },
+        {
+          "slot": 3,
+          "teamName": "VINDICTA",
+          "captainName": "PALZxDIBNYO",
+          "logoUrl": "https://files.catbox.moe/v9hlvu.jpg",
+          "registeredAt": "2026-09-17T10:06:19.222Z"
         }
       ],
       "champions": []
