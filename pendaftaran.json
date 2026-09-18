@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T13:56:53.499Z",
+  "updatedAt": "2026-09-18T08:19:15.950Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -294,6 +294,13 @@
           "captainName": "Improvvee",
           "logoUrl": "https://files.catbox.moe/ky7o5c.jpg",
           "registeredAt": "2026-09-17T13:56:53.499Z"
+        },
+        {
+          "slot": 6,
+          "teamName": "DOA IBU",
+          "captainName": "FLCN.ATHAAA",
+          "logoUrl": "https://files.catbox.moe/369bot.jpg",
+          "registeredAt": "2026-09-18T08:19:15.950Z"
         }
       ],
       "champions": []
