@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:19:15.950Z",
+  "updatedAt": "2026-09-18T08:21:10.415Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -301,6 +301,13 @@
           "captainName": "FLCN.ATHAAA",
           "logoUrl": "https://files.catbox.moe/369bot.jpg",
           "registeredAt": "2026-09-18T08:19:15.950Z"
+        },
+        {
+          "slot": 7,
+          "teamName": "ZscXxz TEAM",
+          "captainName": "ZsX DANZKY",
+          "logoUrl": "https://files.catbox.moe/590r72.jpg",
+          "registeredAt": "2026-09-18T08:21:10.415Z"
         }
       ],
       "champions": []
