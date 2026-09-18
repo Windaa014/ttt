@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:43:53.002Z",
+  "updatedAt": "2026-09-18T10:06:05.803Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -315,6 +315,13 @@
           "captainName": "x7epin",
           "logoUrl": "https://files.catbox.moe/w5hhlg.jpg",
           "registeredAt": "2026-09-18T08:43:53.002Z"
+        },
+        {
+          "slot": 9,
+          "teamName": "Tubruk only",
+          "captainName": "alsyourfav",
+          "logoUrl": "https://files.catbox.moe/4190ro.jpg",
+          "registeredAt": "2026-09-18T10:06:05.803Z"
         }
       ],
       "champions": []
