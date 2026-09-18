@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T13:59:26.781Z",
+  "updatedAt": "2026-09-18T14:11:16.542Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -329,6 +329,13 @@
           "captainName": "PG Ditzyy",
           "logoUrl": "https://files.catbox.moe/wrxu6g.jpg",
           "registeredAt": "2026-09-18T10:53:59.437Z"
+        },
+        {
+          "slot": 11,
+          "teamName": "STROM",
+          "captainName": "x7epin",
+          "logoUrl": "https://files.catbox.moe/w5hhlg.jpg",
+          "registeredAt": "2026-09-18T14:11:16.541Z"
         }
       ],
       "champions": []
