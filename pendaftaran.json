@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T14:11:16.542Z",
+  "updatedAt": "2026-09-18T16:41:25.259Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -338,7 +338,23 @@
           "registeredAt": "2026-09-18T14:11:16.541Z"
         }
       ],
-      "champions": []
+      "champions": [
+        {
+          "position": "Juara 1",
+          "teamName": "EL PASIF",
+          "prize": 25000
+        },
+        {
+          "position": "Juara 2",
+          "teamName": "VILLAIN LEGACY",
+          "prize": 15000
+        },
+        {
+          "position": "Juara 3",
+          "teamName": "SNEAK HILANG ARAH",
+          "prize": 10000
+        }
+      ]
     },
     {
       "id": "ffc-004",
