@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T10:23:13.289Z",
+  "updatedAt": "2026-09-18T10:53:59.437Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -336,6 +336,13 @@
           "captainName": "SAS.Irfann",
           "logoUrl": "https://files.catbox.moe/6wdrnr.jpg",
           "registeredAt": "2026-09-18T10:23:13.289Z"
+        },
+        {
+          "slot": 12,
+          "teamName": "VILLAIN LEGACY",
+          "captainName": "PG Ditzyy",
+          "logoUrl": "https://files.catbox.moe/wrxu6g.jpg",
+          "registeredAt": "2026-09-18T10:53:59.437Z"
         }
       ],
       "champions": []
