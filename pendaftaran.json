@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:21:10.415Z",
+  "updatedAt": "2026-09-18T08:43:53.002Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -308,6 +308,13 @@
           "captainName": "ZsX DANZKY",
           "logoUrl": "https://files.catbox.moe/590r72.jpg",
           "registeredAt": "2026-09-18T08:21:10.415Z"
+        },
+        {
+          "slot": 8,
+          "teamName": "STROM",
+          "captainName": "x7epin",
+          "logoUrl": "https://files.catbox.moe/w5hhlg.jpg",
+          "registeredAt": "2026-09-18T08:43:53.002Z"
         }
       ],
       "champions": []
