@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T11:43:44.863Z",
+  "updatedAt": "2026-09-21T23:15:02.819Z",
   "tournaments": [
     {
       "id": "ffc-001",
@@ -362,7 +362,7 @@
       "date": "2026-09-25",
       "time": "22:00",
       "timezone": "WIB",
-      "status": "open",
+      "status": "closed",
       "format": {
         "mode": "Battle Royale",
         "type": "Squad Mode",
