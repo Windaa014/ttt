@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T20:00:00+07:00",
+  "updatedAt": "2026-09-25T10:00:50.354Z",
   "notice": {
     "active": true,
     "type": "warning",
@@ -368,7 +368,7 @@
       "date": "2026-10-2",
       "time": "22:00",
       "timezone": "WIB",
-      "status": "closed",
+      "status": "open",
       "format": {
         "mode": "Battle Royale",
         "type": "Squad Mode",
