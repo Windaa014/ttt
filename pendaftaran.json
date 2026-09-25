@@ -1,5 +1,11 @@
 {
-  "updatedAt": "2026-09-21T23:15:14.059Z",
+  "updatedAt": "2026-09-25T20:00:00+07:00",
+  "notice": {
+    "active": true,
+    "type": "warning",
+    "title": "PEMBERITAHUAN",
+    "message": "Hari ini FT tutup dulu ya, lanjut Jumat depan.\nTerima kasih atas pengertiannya! 🙏"
+  },
   "tournaments": [
     {
       "id": "ffc-001",
