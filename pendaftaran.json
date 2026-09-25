@@ -365,38 +365,16 @@
     {
       "id": "ffc-004",
       "name": "Friday Fire Cup #04",
-      "date": "2026-09-25",
+      "date": "2026-10-2",
       "time": "22:00",
       "timezone": "WIB",
       "status": "closed",
       "format": {
         "mode": "Battle Royale",
         "type": "Squad Mode",
-        "teams": 12,
+        "teams": 24,
         "playersPerTeam": 4,
-        "totalPlayers": 48
-      },
-      "maps": [
-        "Bermuda",
-        "Purgatory",
-        "Kalahari"
-      ],
-      "teams": [],
-      "champions": []
-    },
-    {
-      "id": "ffc-005",
-      "name": "Friday Fire Cup #05",
-      "date": "2026-10-02",
-      "time": "22:00",
-      "timezone": "WIB",
-      "status": "closed",
-      "format": {
-        "mode": "Battle Royale",
-        "type": "Squad Mode",
-        "teams": 12,
-        "playersPerTeam": 4,
-        "totalPlayers": 48
+        "totalPlayers": 96
       },
       "maps": [
         "Bermuda",
