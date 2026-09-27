@@ -1,10 +1,10 @@
 {
   "updatedAt": "2026-09-25T10:00:50.354Z",
   "notice": {
-    "active": true,
-    "type": "warning",
-    "title": "PEMBERITAHUAN",
-    "message": "Hari ini FT tutup dulu ya, lanjut Jumat depan.\nTerima kasih atas pengertiannya! 🙏"
+  "active": true,
+  "type": "info",
+  "title": "INFO",
+  "message": "Friday Fire Cup #04 sudah dibuka!\nAmankan slot team kalian sebelum penuh."
   },
   "tournaments": [
     {
