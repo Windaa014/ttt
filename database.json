@@ -1,0 +1,32 @@
+{
+  "users": {},
+  "transactions": [
+    {
+      "id": "TRX-A1C1E9C1",
+      "userId": "7506412328",
+      "type": "income",
+      "name": "abri gaji",
+      "amount": 500000,
+      "date": "2026-09-29",
+      "time": "15:35:59",
+      "day": 29,
+      "month": 9,
+      "year": 2026,
+      "timestamp": 1790696159
+    },
+    {
+      "id": "TRX-897C9965",
+      "userId": "7506412328",
+      "type": "expense",
+      "name": "abri makan",
+      "amount": 50000,
+      "date": "2026-09-29",
+      "time": "15:36:33",
+      "day": 29,
+      "month": 9,
+      "year": 2026,
+      "timestamp": 1790696193
+    }
+  ],
+  "settings": {}
+}
