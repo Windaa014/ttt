@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T01:36:06.888Z",
+  "updatedAt": "2026-10-01T09:37:35.506Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -388,7 +388,14 @@
           "captainName": "EL TEBEE",
           "logoUrl": "https://files.catbox.moe/gkyb37.jpg",
           "registeredAt": "2026-09-03T10:01:35.427Z"
-      }
+        },
+        {
+          "slot": 2,
+          "teamName": "Nightmare",
+          "captainName": "Chaa",
+          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/9jh3po09.jpg",
+          "registeredAt": "2026-10-01T09:37:35.506Z"
+        }
       ],
       "champions": []
     }
