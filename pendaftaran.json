@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:26:23.619Z",
+  "updatedAt": "2026-10-01T19:34:46.631Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -416,6 +416,13 @@
           "captainName": "BATAGOR",
           "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/kml4haaj.jpg",
           "registeredAt": "2026-10-01T10:26:23.619Z"
+        },
+        {
+          "slot": 6,
+          "teamName": "VILAIN LGC",
+          "captainName": "PG Ditzyy",
+          "logoUrl": "https://files.catbox.moe/jattl0.jpg",
+          "registeredAt": "2026-10-01T19:34:46.630Z"
         }
       ],
       "champions": []
