@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T09:37:35.506Z",
+  "updatedAt": "2026-10-01T10:14:34.940Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -395,6 +395,13 @@
           "captainName": "Chaa",
           "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/9jh3po09.jpg",
           "registeredAt": "2026-10-01T09:37:35.506Z"
+        },
+        {
+          "slot": 3,
+          "teamName": "AREA 15",
+          "captainName": "tangeiei",
+          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/rxhdmov9.jpg",
+          "registeredAt": "2026-10-01T10:14:34.940Z"
         }
       ],
       "champions": []
