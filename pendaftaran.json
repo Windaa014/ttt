@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:14:34.940Z",
+  "updatedAt": "2026-10-01T10:19:37.841Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -402,6 +402,13 @@
           "captainName": "tangeiei",
           "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/rxhdmov9.jpg",
           "registeredAt": "2026-10-01T10:14:34.940Z"
+        },
+        {
+          "slot": 4,
+          "teamName": "FISAPLE",
+          "captainName": "POLIJE ZALDY",
+          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/axjjfbj3.jpg",
+          "registeredAt": "2026-10-01T10:19:37.841Z"
         }
       ],
       "champions": []
