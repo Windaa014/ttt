@@ -372,9 +372,9 @@
       "format": {
         "mode": "Battle Royale",
         "type": "Squad Mode",
-        "teams": 24,
+        "teams": 12,
         "playersPerTeam": 4,
-        "totalPlayers": 96
+        "totalPlayers": 48
       },
       "maps": [
         "Bermuda",
