@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:19:37.841Z",
+  "updatedAt": "2026-10-01T10:26:23.619Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -409,6 +409,13 @@
           "captainName": "POLIJE ZALDY",
           "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/axjjfbj3.jpg",
           "registeredAt": "2026-10-01T10:19:37.841Z"
+        },
+        {
+          "slot": 5,
+          "teamName": "TEAM TAPIR",
+          "captainName": "BATAGOR",
+          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/kml4haaj.jpg",
+          "registeredAt": "2026-10-01T10:26:23.619Z"
         }
       ],
       "champions": []
