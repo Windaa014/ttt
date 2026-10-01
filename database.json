@@ -28,17 +28,17 @@
       "timestamp": 1790696193
     },
     {
-      "id": "TRX-2C50E860",
-      "userId": "7506412328",
-      "type": "expense",
-      "name": "winda jajan",
-      "amount": 150000,
-      "date": "2026-09-29",
-      "time": "15:51:17",
-      "day": 29,
-      "month": 9,
+      "id": "TRX-77ACE7F3",
+      "userId": "8244818244",
+      "type": "income",
+      "name": "zor/gajian",
+      "amount": 50000,
+      "date": "2026-10-01",
+      "time": "00:58:54",
+      "day": 1,
+      "month": 10,
       "year": 2026,
-      "timestamp": 1790697077
+      "timestamp": 1790816334
     }
   ],
   "settings": {}
