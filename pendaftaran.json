@@ -381,7 +381,15 @@
         "Purgatory",
         "Kalahari"
       ],
-      "teams": [],
+      "teams": [
+        {
+          "slot": 1,
+          "teamName": "PRIDE VOID",
+          "captainName": "EL TEBEE",
+          "logoUrl": "https://files.catbox.moe/gkyb37.jpg",
+          "registeredAt": "2026-09-03T10:01:35.427Z"
+      }
+      ],
       "champions": []
     }
   ]
