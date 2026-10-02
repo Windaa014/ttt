@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T12:01:55.388Z",
+  "updatedAt": "2026-10-02T14:03:12.742Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -444,6 +444,13 @@
           "captainName": "Baczxy",
           "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/5d09dtuo.jpg",
           "registeredAt": "2026-10-02T12:01:55.388Z"
+        },
+        {
+          "slot": 10,
+          "teamName": "SEURAMO PERADABAN",
+          "captainName": "Jamettt",
+          "logoUrl": "https://files.catbox.moe/a8v0tv.jpg",
+          "registeredAt": "2026-10-02T14:03:12.741Z"
         }
       ],
       "champions": []
