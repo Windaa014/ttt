@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T14:03:12.742Z",
+  "updatedAt": "2026-10-02T14:18:28.503Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -399,7 +399,7 @@
         {
           "slot": 3,
           "teamName": "AREA 15",
-          "captainName": "Kokoyourbae",
+          "captainName": "tangeiei",
           "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/rxhdmov9.jpg",
           "registeredAt": "2026-10-01T10:14:34.940Z"
         },
@@ -451,6 +451,13 @@
           "captainName": "Jamettt",
           "logoUrl": "https://files.catbox.moe/a8v0tv.jpg",
           "registeredAt": "2026-10-02T14:03:12.741Z"
+        },
+        {
+          "slot": 11,
+          "teamName": "PHOENIX FURY",
+          "captainName": ":VNO`RIZZH1GH",
+          "logoUrl": "https://files.catbox.moe/q306gi.jpg",
+          "registeredAt": "2026-10-02T14:18:28.503Z"
         }
       ],
       "champions": []
