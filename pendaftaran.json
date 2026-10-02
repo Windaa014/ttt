@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T19:34:46.631Z",
+  "updatedAt": "2026-10-02T10:48:41.342Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -423,6 +423,13 @@
           "captainName": "PG Ditzyy",
           "logoUrl": "https://files.catbox.moe/jattl0.jpg",
           "registeredAt": "2026-10-01T19:34:46.630Z"
+        },
+        {
+          "slot": 7,
+          "teamName": "PAKET JNT",
+          "captainName": "vηø°Manzeiei",
+          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/nemqef2y.jpg",
+          "registeredAt": "2026-10-02T10:48:41.342Z"
         }
       ],
       "champions": []
