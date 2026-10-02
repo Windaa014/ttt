@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T23:01:21.343Z",
+  "updatedAt": "2026-10-02T23:02:08.308Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -467,7 +467,23 @@
           "registeredAt": "2026-10-02T15:01:20.377Z"
         }
       ],
-      "champions": []
+      "champions": [
+        {
+          "position": "Juara 1",
+          "teamName": "FISAPLE",
+          "prize": 25000
+        },
+        {
+          "position": "Juara 2",
+          "teamName": "MONITOR",
+          "prize": 15000
+        },
+        {
+          "position": "Juara 3",
+          "teamName": "PRIDE VOID",
+          "prize": 10000
+        }
+      ]
     }
   ]
 }
