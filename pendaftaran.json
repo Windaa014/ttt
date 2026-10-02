@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T14:18:28.503Z",
+  "updatedAt": "2026-10-02T14:28:15.000Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -458,6 +458,13 @@
           "captainName": ":VNO`RIZZH1GH",
           "logoUrl": "https://files.catbox.moe/q306gi.jpg",
           "registeredAt": "2026-10-02T14:18:28.503Z"
+        },
+        {
+          "slot": 12,
+          "teamName": "Sempak bolong",
+          "captainName": "boollayam",
+          "logoUrl": "https://files.catbox.moe/o0a1iy.jpg",
+          "registeredAt": "2026-10-02T14:28:15.000Z"
         }
       ],
       "champions": []
