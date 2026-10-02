@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:00:16.181Z",
+  "updatedAt": "2026-10-02T15:01:20.377Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -458,6 +458,13 @@
           "captainName": "vηø°Manzeiei",
           "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/nemqef2y.jpg",
           "registeredAt": "2026-10-02T15:00:16.181Z"
+        },
+        {
+          "slot": 12,
+          "teamName": "MINITOR",
+          "captainName": "MIX QIUU",
+          "logoUrl": "https://files.catbox.moe/794mbd.jpg",
+          "registeredAt": "2026-10-02T15:01:20.377Z"
         }
       ],
       "champions": []
