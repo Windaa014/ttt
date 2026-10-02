@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T11:54:29.005Z",
+  "updatedAt": "2026-10-02T12:01:55.388Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -437,6 +437,13 @@
           "captainName": "OMPRENGMBG",
           "logoUrl": "https://files.catbox.moe/vac7e1.jpg",
           "registeredAt": "2026-10-02T11:54:29.005Z"
+        },
+        {
+          "slot": 9,
+          "teamName": "IDGAF LEGACY",
+          "captainName": "Baczxy",
+          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/5d09dtuo.jpg",
+          "registeredAt": "2026-10-02T12:01:55.388Z"
         }
       ],
       "champions": []
