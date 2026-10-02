@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T10:48:41.342Z",
+  "updatedAt": "2026-10-02T11:54:29.005Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -430,6 +430,13 @@
           "captainName": "vηø°Manzeiei",
           "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/nemqef2y.jpg",
           "registeredAt": "2026-10-02T10:48:41.342Z"
+        },
+        {
+          "slot": 8,
+          "teamName": "GITANG",
+          "captainName": "OMPRENGMBG",
+          "logoUrl": "https://files.catbox.moe/vac7e1.jpg",
+          "registeredAt": "2026-10-02T11:54:29.005Z"
         }
       ],
       "champions": []
