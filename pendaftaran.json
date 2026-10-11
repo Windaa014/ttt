@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T11:42:53.226Z",
+  "updatedAt": "2026-10-11T11:49:40.812Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -581,6 +581,13 @@
           "captainName": "K1O Damzy",
           "logoUrl": "https://files.catbox.moe/jmb600.jpg",
           "registeredAt": "2026-10-11T11:42:53.226Z"
+        },
+        {
+          "slot": 12,
+          "teamName": "Arthava",
+          "captainName": "pbm",
+          "logoUrl": "https://files.catbox.moe/wz1inr.jpg",
+          "registeredAt": "2026-10-11T11:49:40.812Z"
         }
       ],
       "champions": []
