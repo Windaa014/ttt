@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T11:07:08.885Z",
+  "updatedAt": "2026-10-11T11:42:53.226Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -574,6 +574,13 @@
           "captainName": "DIEEY18 CUPU",
           "logoUrl": "https://files.catbox.moe/t006iw.jpg",
           "registeredAt": "2026-10-11T11:07:08.885Z"
+        },
+        {
+          "slot": 11,
+          "teamName": "PLENGER",
+          "captainName": "K1O Damzy",
+          "logoUrl": "https://files.catbox.moe/jmb600.jpg",
+          "registeredAt": "2026-10-11T11:42:53.226Z"
         }
       ],
       "champions": []
