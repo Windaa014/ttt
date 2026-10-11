@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:45:40.731Z",
+  "updatedAt": "2026-10-11T06:47:11.496Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -546,13 +546,6 @@
           "captainName": "LEADERMARGA3",
           "logoUrl": "https://files.catbox.moe/55sueh.jpg",
           "registeredAt": "2026-10-11T05:48:52.864Z"
-        },
-        {
-          "slot": 7,
-          "teamName": "TOBRUTT",
-          "captainName": "WOWOK     CUPU",
-          "logoUrl": "https://files.catbox.moe/dn1euu.jpg",
-          "registeredAt": "2026-10-11T06:45:40.730Z"
         }
       ],
       "champions": []
