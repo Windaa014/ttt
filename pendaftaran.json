@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T16:14:53.394Z",
+  "updatedAt": "2026-10-11T16:15:31.110Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -590,7 +590,23 @@
           "registeredAt": "2026-10-11T11:49:40.812Z"
         }
       ],
-      "champions": []
+      "champions": [
+        {
+          "position": "Juara 1",
+          "teamName": "RIZALGEMOY",
+          "prize": 25000
+        },
+        {
+          "position": "Juara 2",
+          "teamName": "MARGA CEES",
+          "prize": 15000
+        },
+        {
+          "position": "Juara 3",
+          "teamName": "ARTHAVA",
+          "prize": 10000
+        }
+      ]
     }
   ]
 }
