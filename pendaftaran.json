@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:27:47.524Z",
+  "updatedAt": "2026-10-11T04:31:09.337Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -504,7 +504,15 @@
         "Purgatory",
         "Kalahari"
       ],
-      "teams": [],
+      "teams": [
+        {
+          "slot": 1,
+          "teamName": "PRIDE VOID",
+          "captainName": "EL TEBEE",
+          "logoUrl": "https://files.catbox.moe/gkyb37.jpg",
+          "registeredAt": "2026-10-11T04:31:09.337Z"
+        }
+      ],
       "champions": []
     }
   ]
