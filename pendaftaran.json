@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-11T08:23:56.886Z",
+  "updatedAt": "2026-10-11T11:07:08.885Z",
   "notice": {
     "active": true,
     "type": "info",
     "title": "INFO",
-    "message": "Friday Fire Cup #05 sudah dibuka!\nAmankan slot team kalian sebelum penuh."
+    "message": "Friday Fire Cup #04 sudah dibuka!\nAmankan slot team kalian sebelum penuh."
   },
   "tournaments": [
     {
@@ -567,6 +567,13 @@
           "captainName": "Pallrow",
           "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/ex0mqflg.jpg",
           "registeredAt": "2026-10-11T08:23:56.886Z"
+        },
+        {
+          "slot": 10,
+          "teamName": "SUPERMAN",
+          "captainName": "DIEEY18 CUPU",
+          "logoUrl": "https://files.catbox.moe/t006iw.jpg",
+          "registeredAt": "2026-10-11T11:07:08.885Z"
         }
       ],
       "champions": []
