@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:32:38.884Z",
+  "updatedAt": "2026-10-11T04:48:09.044Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -518,6 +518,13 @@
           "captainName": "BATAGOR",
           "logoUrl": "https://files.catbox.moe/ynvpv1.jpg",
           "registeredAt": "2026-10-11T04:32:38.884Z"
+        },
+        {
+          "slot": 3,
+          "teamName": "TEAMSAKIT",
+          "captainName": "RrqEvosQiuu",
+          "logoUrl": "https://files.catbox.moe/1sxbme.jpg",
+          "registeredAt": "2026-10-11T04:48:09.044Z"
         }
       ],
       "champions": []
