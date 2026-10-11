@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:48:09.044Z",
+  "updatedAt": "2026-10-11T04:51:00.358Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -525,6 +525,13 @@
           "captainName": "RrqEvosQiuu",
           "logoUrl": "https://files.catbox.moe/1sxbme.jpg",
           "registeredAt": "2026-10-11T04:48:09.044Z"
+        },
+        {
+          "slot": 4,
+          "teamName": "SEURAMO PERADABAN",
+          "captainName": "Funky",
+          "logoUrl": "https://files.catbox.moe/gksgwx.jpg",
+          "registeredAt": "2026-10-11T04:51:00.358Z"
         }
       ],
       "champions": []
