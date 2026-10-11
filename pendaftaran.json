@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:51:00.358Z",
+  "updatedAt": "2026-10-11T04:59:02.561Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -532,6 +532,13 @@
           "captainName": "Funky",
           "logoUrl": "https://files.catbox.moe/gksgwx.jpg",
           "registeredAt": "2026-10-11T04:51:00.358Z"
+        },
+        {
+          "slot": 5,
+          "teamName": "EL PRIME",
+          "captainName": "DDzamm★??",
+          "logoUrl": "https://files.catbox.moe/eo9alf.jpg",
+          "registeredAt": "2026-10-11T04:59:02.561Z"
         }
       ],
       "champions": []
