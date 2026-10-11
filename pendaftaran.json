@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T08:20:17.608Z",
+  "updatedAt": "2026-10-11T08:23:56.886Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -560,6 +560,13 @@
           "captainName": "SCF • Diraaaex",
           "logoUrl": "https://files.catbox.moe/yzrct5.jpg",
           "registeredAt": "2026-10-11T08:20:17.608Z"
+        },
+        {
+          "slot": 9,
+          "teamName": "NIGHTMARE",
+          "captainName": "Pallrow",
+          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/ex0mqflg.jpg",
+          "registeredAt": "2026-10-11T08:23:56.886Z"
         }
       ],
       "champions": []
