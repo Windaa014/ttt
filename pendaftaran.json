@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:59:02.561Z",
+  "updatedAt": "2026-10-11T05:48:52.864Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -539,6 +539,13 @@
           "captainName": "DDzamm★??",
           "logoUrl": "https://files.catbox.moe/eo9alf.jpg",
           "registeredAt": "2026-10-11T04:59:02.561Z"
+        },
+        {
+          "slot": 6,
+          "teamName": "MARGA CEES",
+          "captainName": "LEADERMARGA3",
+          "logoUrl": "https://files.catbox.moe/55sueh.jpg",
+          "registeredAt": "2026-10-11T05:48:52.864Z"
         }
       ],
       "champions": []
