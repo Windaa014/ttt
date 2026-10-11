@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:31:09.337Z",
+  "updatedAt": "2026-10-11T04:32:38.884Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -511,6 +511,13 @@
           "captainName": "EL TEBEE",
           "logoUrl": "https://files.catbox.moe/gkyb37.jpg",
           "registeredAt": "2026-10-11T04:31:09.337Z"
+        },
+        {
+          "slot": 2,
+          "teamName": "TEAM TAPIR",
+          "captainName": "BATAGOR",
+          "logoUrl": "https://files.catbox.moe/ynvpv1.jpg",
+          "registeredAt": "2026-10-11T04:32:38.884Z"
         }
       ],
       "champions": []
