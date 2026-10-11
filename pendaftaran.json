@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:48:04.598Z",
+  "updatedAt": "2026-10-11T08:20:17.608Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -553,6 +553,13 @@
           "captainName": "POLIJE ZALDY",
           "logoUrl": "https://files.catbox.moe/fwtrwp.jpg",
           "registeredAt": "2026-10-11T06:48:04.598Z"
+        },
+        {
+          "slot": 8,
+          "teamName": "TUJUAN SEMARANG",
+          "captainName": "SCF • Diraaaex",
+          "logoUrl": "https://files.catbox.moe/yzrct5.jpg",
+          "registeredAt": "2026-10-11T08:20:17.608Z"
         }
       ],
       "champions": []
