@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T23:02:08.308Z",
+  "updatedAt": "2026-10-11T04:27:47.524Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -484,6 +484,28 @@
           "prize": 10000
         }
       ]
+    },
+    {
+      "id": "ffc-005",
+      "name": "Friday Fire Cup #05",
+      "date": "2026-10-11",
+      "time": "22:00",
+      "timezone": "WIB",
+      "status": "open",
+      "format": {
+        "mode": "Battle Royale",
+        "type": "Squad Mode",
+        "teams": 12,
+        "playersPerTeam": 4,
+        "totalPlayers": 48
+      },
+      "maps": [
+        "Bermuda",
+        "Purgatory",
+        "Kalahari"
+      ],
+      "teams": [],
+      "champions": []
     }
   ]
 }
