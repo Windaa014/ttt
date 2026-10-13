@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T16:33:51.507Z",
+  "updatedAt": "2026-10-13T16:34:05.794Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -596,19 +596,7 @@
           "price": 1000,
           "maxTeams": 12,
           "groupRoomUrl": "https://chat.whatsapp.com/IJXSs4s0J9FFvlqrax4WPo?s=cl&p=a&mlu=4&iam=0",
-          "teams": [
-            {
-              "slot": 1,
-              "teamName": "Testing",
-              "captainName": "Abri",
-              "logoUrl": "",
-              "registeredAt": "2026-10-13T15:51:01.306Z",
-              "invoiceId": "6ace53371bd38aeb1aa2cf0a",
-              "paid": true,
-              "paidAt": "2026-10-13T15:51:01.306Z",
-              "whatsapp": "6285178954342"
-            }
-          ],
+          "teams": [],
           "champions": []
         },
         {
