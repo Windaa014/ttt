@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:11:13.030Z",
+  "updatedAt": "2026-10-13T14:35:03.126Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -605,15 +605,6 @@
           "price": 5000,
           "maxTeams": 12,
           "groupRoomUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_ROOM_1200",
-          "teams": [],
-          "champions": []
-        },
-        {
-          "id": "s3",
-          "time": "15:00",
-          "price": 7500,
-          "maxTeams": 12,
-          "groupRoomUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_ROOM_1500",
           "teams": [],
           "champions": []
         }
