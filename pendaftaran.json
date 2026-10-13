@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-13T15:51:01.306Z",
+  "updatedAt": "2026-10-13T16:33:51.507Z",
   "notice": {
     "active": true,
-    "type": "kabarbaik",
-    "title": "KABARBAIK",
+    "type": "info",
+    "title": "INFO",
     "message": "Friday Fire Cup #06 sudah dibuka!\nPilih jam main, bayar, dan gaskeun."
   },
   "groupInfoFridayUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_FRIDAY_ANDA",
@@ -599,17 +599,6 @@
           "teams": [
             {
               "slot": 1,
-              "teamName": "KOKO",
-              "captainName": "KOKOPAY",
-              "logoUrl": "",
-              "registeredAt": "2026-10-13T14:46:38.497Z",
-              "invoiceId": "6ace407b1bd38aeb1aa119c2",
-              "paid": true,
-              "paidAt": "2026-10-13T14:46:38.497Z",
-              "whatsapp": "6285876027452"
-            },
-            {
-              "slot": 2,
               "teamName": "Testing",
               "captainName": "Abri",
               "logoUrl": "",
