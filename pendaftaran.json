@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:46:38.497Z",
+  "updatedAt": "2026-10-13T15:51:01.306Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -607,6 +607,17 @@
               "paid": true,
               "paidAt": "2026-10-13T14:46:38.497Z",
               "whatsapp": "6285876027452"
+            },
+            {
+              "slot": 2,
+              "teamName": "Testing",
+              "captainName": "Abri",
+              "logoUrl": "",
+              "registeredAt": "2026-10-13T15:51:01.306Z",
+              "invoiceId": "6ace53371bd38aeb1aa2cf0a",
+              "paid": true,
+              "paidAt": "2026-10-13T15:51:01.306Z",
+              "whatsapp": "6285178954342"
             }
           ],
           "champions": []
