@@ -1,125 +1,43 @@
 {
-  "updatedAt": "2026-10-11T16:24:34.627Z",
+  "updatedAt": "2026-10-13T10:00:00+07:00",
   "notice": {
     "active": true,
     "type": "info",
     "title": "INFO",
-    "message": "Friday Fire Cup #04 sudah dibuka!\nAmankan slot team kalian sebelum penuh."
+    "message": "Friday Fire Cup #06 sudah dibuka!\nPilih jam main, bayar, dan gaskeun."
   },
+  "groupInfoFridayUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_FRIDAY_ANDA",
   "tournaments": [
     {
       "id": "ffc-001",
       "name": "Friday Fire Cup #01",
       "date": "2026-09-11",
-      "time": "22:00",
-      "timezone": "WIB",
       "status": "finished",
-      "format": {
-        "mode": "Battle Royale",
-        "type": "Squad Mode",
-        "teams": 12,
-        "playersPerTeam": 4,
-        "totalPlayers": 48
-      },
-      "maps": [
-        "Bermuda",
-        "Purgatory",
-        "Kalahari"
-      ],
-      "teams": [
+      "sessions": [
         {
-          "slot": 1,
-          "teamName": "KAWAN OZAY",
-          "captainName": "ALVIO ALANA",
-          "logoUrl": "https://files.catbox.moe/g2y4pv.jpg",
-          "registeredAt": "2026-09-03T10:01:35.427Z"
-        },
-        {
-          "slot": 2,
-          "teamName": "POLI JATI ESPORT",
-          "captainName": "VNO RIYANN",
-          "logoUrl": "https://files.catbox.moe/kqfdys.jpg",
-          "registeredAt": "2026-09-03T10:10:17.216Z"
-        },
-        {
-          "slot": 3,
-          "teamName": "RANBOW MAN",
-          "captainName": "keped",
-          "logoUrl": "https://files.catbox.moe/dsw1r5.jpg",
-          "registeredAt": "2026-09-03T10:14:38.896Z"
-        },
-        {
-          "slot": 4,
-          "teamName": "SMKKARTEK1",
-          "captainName": "STARS3・Ditzタ",
-          "logoUrl": "https://files.catbox.moe/dsxv5f.jpg",
-          "registeredAt": "2026-09-03T11:15:59.618Z"
-        },
-        {
-          "slot": 5,
-          "teamName": "SMKN 1 CISARUA",
-          "captainName": "Adriann",
-          "logoUrl": "https://files.catbox.moe/y1vvda.jpg",
-          "registeredAt": "2026-09-03T11:23:47.810Z"
-        },
-        {
-          "slot": 6,
-          "teamName": "DKK BOGOR",
-          "captainName": "als",
-          "logoUrl": "https://files.catbox.moe/vrejim.jpg",
-          "registeredAt": "2026-09-03T11:55:09.359Z"
-        },
-        {
-          "slot": 7,
-          "teamName": "EZ WIN",
-          "captainName": "Rayzens",
-          "logoUrl": "https://files.catbox.moe/6wskvf.jpg",
-          "registeredAt": "2026-09-03T11:55:09.359Z"
-        },
-        {
-          "slot": 8,
-          "teamName": "RAVISPA",
-          "captainName": "ajey imut",
-          "logoUrl": "https://files.catbox.moe/g2bc4h.jpg",
-          "registeredAt": "2026-09-03T11:55:09.359Z"
-        },
-        {
-          "slot": 9,
-          "teamName": "DAVYRA",
-          "captainName": "zidan",
-          "logoUrl": "https://files.catbox.moe/yswem5.jpg",
-          "registeredAt": "2026-09-03T11:55:09.359Z"
-        },
-        {
-          "slot": 10,
-          "teamName": "SMK BANI USMAN MANUNGGAL",
-          "captainName": "Tegar",
-          "logoUrl": "https://files.catbox.moe/6h6pgh.jpg",
-          "registeredAt": "2026-09-03T11:55:09.359Z"
-        },
-        {
-          "slot": 11,
-          "teamName": "Epos India",
-          "captainName": "Nopal",
-          "logoUrl": "https://files.catbox.moe/fw0vcd.jpg",
-          "registeredAt": "2026-09-03T11:55:09.359Z"
-        }
-      ],
-      "champions": [
-        {
-          "position": "Juara 1",
-          "teamName": "SMK KARTEK 1",
-          "prize": 25000
-        },
-        {
-          "position": "Juara 2",
-          "teamName": "TENARU GANK",
-          "prize": 15000
-        },
-        {
-          "position": "Juara 3",
-          "teamName": "SMKN 1 CISARUA",
-          "prize": 10000
+          "id": "s1",
+          "time": "22:00",
+          "price": 0,
+          "maxTeams": 12,
+          "groupRoomUrl": "",
+          "teams": [
+            { "slot": 1, "teamName": "KAWAN OZAY", "captainName": "ALVIO ALANA", "logoUrl": "https://files.catbox.moe/g2y4pv.jpg", "registeredAt": "2026-09-03T10:01:35.427Z" },
+            { "slot": 2, "teamName": "POLI JATI ESPORT", "captainName": "VNO RIYANN", "logoUrl": "https://files.catbox.moe/kqfdys.jpg", "registeredAt": "2026-09-03T10:10:17.216Z" },
+            { "slot": 3, "teamName": "RANBOW MAN", "captainName": "keped", "logoUrl": "https://files.catbox.moe/dsw1r5.jpg", "registeredAt": "2026-09-03T10:14:38.896Z" },
+            { "slot": 4, "teamName": "SMKKARTEK1", "captainName": "STARS3・Ditzタ", "logoUrl": "https://files.catbox.moe/dsxv5f.jpg", "registeredAt": "2026-09-03T11:15:59.618Z" },
+            { "slot": 5, "teamName": "SMKN 1 CISARUA", "captainName": "Adriann", "logoUrl": "https://files.catbox.moe/y1vvda.jpg", "registeredAt": "2026-09-03T11:23:47.810Z" },
+            { "slot": 6, "teamName": "DKK BOGOR", "captainName": "als", "logoUrl": "https://files.catbox.moe/vrejim.jpg", "registeredAt": "2026-09-03T11:55:09.359Z" },
+            { "slot": 7, "teamName": "EZ WIN", "captainName": "Rayzens", "logoUrl": "https://files.catbox.moe/6wskvf.jpg", "registeredAt": "2026-09-03T11:55:09.359Z" },
+            { "slot": 8, "teamName": "RAVISPA", "captainName": "ajey imut", "logoUrl": "https://files.catbox.moe/g2bc4h.jpg", "registeredAt": "2026-09-03T11:55:09.359Z" },
+            { "slot": 9, "teamName": "DAVYRA", "captainName": "zidan", "logoUrl": "https://files.catbox.moe/yswem5.jpg", "registeredAt": "2026-09-03T11:55:09.359Z" },
+            { "slot": 10, "teamName": "SMK BANI USMAN MANUNGGAL", "captainName": "Tegar", "logoUrl": "https://files.catbox.moe/6h6pgh.jpg", "registeredAt": "2026-09-03T11:55:09.359Z" },
+            { "slot": 11, "teamName": "Epos India", "captainName": "Nopal", "logoUrl": "https://files.catbox.moe/fw0vcd.jpg", "registeredAt": "2026-09-03T11:55:09.359Z" }
+          ],
+          "champions": [
+            { "position": "Juara 1", "teamName": "SMK KARTEK 1", "prize": 25000 },
+            { "position": "Juara 2", "teamName": "TENARU GANK", "prize": 15000 },
+            { "position": "Juara 3", "teamName": "SMKN 1 CISARUA", "prize": 10000 }
+          ]
         }
       ]
     },
@@ -127,122 +45,33 @@
       "id": "ffc-002",
       "name": "Friday Fire Cup #02",
       "date": "2026-09-11",
-      "time": "22:00",
-      "timezone": "WIB",
       "status": "finished",
-      "format": {
-        "mode": "Battle Royale",
-        "type": "Squad Mode",
-        "teams": 12,
-        "playersPerTeam": 4,
-        "totalPlayers": 48
-      },
-      "maps": [
-        "Bermuda",
-        "Purgatory",
-        "Kalahari"
-      ],
-      "teams": [
+      "sessions": [
         {
-          "slot": 1,
-          "teamName": "KOLIANTU",
-          "captainName": "KD RIYANN",
-          "logoUrl": "https://files.catbox.moe/qrwlwo.jpg",
-          "registeredAt": "2026-09-10T09:44:15.499Z"
-        },
-        {
-          "slot": 2,
-          "teamName": "EZZ WINN",
-          "captainName": "Rayzens",
-          "logoUrl": "https://files.catbox.moe/1l8960.jpg",
-          "registeredAt": "2026-09-10T10:01:59.104Z"
-        },
-        {
-          "slot": 3,
-          "teamName": "VNO INISIAL",
-          "captainName": "vηø°Manzeiei",
-          "logoUrl": "https://files.catbox.moe/9t068o.jpg",
-          "registeredAt": "2026-09-10T10:16:45.296Z"
-        },
-        {
-          "slot": 4,
-          "teamName": "TABRAK -TABRAK MASUK",
-          "captainName": "DAM 1",
-          "logoUrl": "https://files.catbox.moe/8s6712.jpg",
-          "registeredAt": "2026-09-10T12:42:28.352Z"
-        },
-        {
-          "slot": 5,
-          "teamName": "nuelback",
-          "captainName": "Lúxhandsome",
-          "logoUrl": "https://files.catbox.moe/rg3y4s.jpg",
-          "registeredAt": "2026-09-10T15:26:25.084Z"
-        },
-        {
-          "slot": 6,
-          "teamName": "VORTEX",
-          "captainName": "alsyourfav",
-          "logoUrl": "https://files.catbox.moe/y8ucmz.jpg",
-          "registeredAt": "2026-09-10T22:34:17.689Z"
-        },
-        {
-          "slot": 7,
-          "teamName": "LEGACY",
-          "captainName": "SAS.Irfann",
-          "logoUrl": "https://files.catbox.moe/ejoc22.jpg",
-          "registeredAt": "2026-09-10T22:35:23.264Z"
-        },
-        {
-          "slot": 8,
-          "teamName": "area 15",
-          "captainName": "devzzz15",
-          "logoUrl": "https://files.catbox.moe/js1i2o.jpg",
-          "registeredAt": "2026-09-11T00:05:01.671Z"
-        },
-        {
-          "slot": 9,
-          "teamName": "GITANG",
-          "captainName": "Goknongpro18",
-          "logoUrl": "https://files.catbox.moe/rbvs4p.jpg",
-          "registeredAt": "2026-09-11T11:42:55.208Z"
-        },
-        {
-          "slot": 10,
-          "teamName": "evos manukung",
-          "captainName": "Tumin",
-          "logoUrl": "https://files.catbox.moe/0ky8bb.jpg",
-          "registeredAt": "2026-09-11T11:44:33.213Z"
-        },
-        {
-          "slot": 11,
-          "teamName": "anti lose",
-          "captainName": "naynay holic",
-          "logoUrl": "https://files.catbox.moe/gpzxrh.jpg",
-          "registeredAt": "2026-09-11T11:45:19.489Z"
-        },
-        {
-          "slot": 12,
-          "teamName": "BSBTEAM",
-          "captainName": "much",
-          "logoUrl": "https://files.catbox.moe/dwc6p1.jpg",
-          "registeredAt": "2026-09-11T12:16:42.858Z"
-        }
-      ],
-      "champions": [
-        {
-          "position": "Juara 1",
-          "teamName": "VNO INISIAL",
-          "prize": 25000
-        },
-        {
-          "position": "Juara 2",
-          "teamName": "LEGACY",
-          "prize": 15000
-        },
-        {
-          "position": "Juara 3",
-          "teamName": "KOLIANTU",
-          "prize": 10000
+          "id": "s1",
+          "time": "22:00",
+          "price": 0,
+          "maxTeams": 12,
+          "groupRoomUrl": "",
+          "teams": [
+            { "slot": 1, "teamName": "KOLIANTU", "captainName": "KD RIYANN", "logoUrl": "https://files.catbox.moe/qrwlwo.jpg", "registeredAt": "2026-09-10T09:44:15.499Z" },
+            { "slot": 2, "teamName": "EZZ WINN", "captainName": "Rayzens", "logoUrl": "https://files.catbox.moe/1l8960.jpg", "registeredAt": "2026-09-10T10:01:59.104Z" },
+            { "slot": 3, "teamName": "VNO INISIAL", "captainName": "vηø°Manzeiei", "logoUrl": "https://files.catbox.moe/9t068o.jpg", "registeredAt": "2026-09-10T10:16:45.296Z" },
+            { "slot": 4, "teamName": "TABRAK -TABRAK MASUK", "captainName": "DAM 1", "logoUrl": "https://files.catbox.moe/8s6712.jpg", "registeredAt": "2026-09-10T12:42:28.352Z" },
+            { "slot": 5, "teamName": "nuelback", "captainName": "Lúxhandsome", "logoUrl": "https://files.catbox.moe/rg3y4s.jpg", "registeredAt": "2026-09-10T15:26:25.084Z" },
+            { "slot": 6, "teamName": "VORTEX", "captainName": "alsyourfav", "logoUrl": "https://files.catbox.moe/y8ucmz.jpg", "registeredAt": "2026-09-10T22:34:17.689Z" },
+            { "slot": 7, "teamName": "LEGACY", "captainName": "SAS.Irfann", "logoUrl": "https://files.catbox.moe/ejoc22.jpg", "registeredAt": "2026-09-10T22:35:23.264Z" },
+            { "slot": 8, "teamName": "area 15", "captainName": "devzzz15", "logoUrl": "https://files.catbox.moe/js1i2o.jpg", "registeredAt": "2026-09-11T00:05:01.671Z" },
+            { "slot": 9, "teamName": "GITANG", "captainName": "Goknongpro18", "logoUrl": "https://files.catbox.moe/rbvs4p.jpg", "registeredAt": "2026-09-11T11:42:55.208Z" },
+            { "slot": 10, "teamName": "evos manukung", "captainName": "Tumin", "logoUrl": "https://files.catbox.moe/0ky8bb.jpg", "registeredAt": "2026-09-11T11:44:33.213Z" },
+            { "slot": 11, "teamName": "anti lose", "captainName": "naynay holic", "logoUrl": "https://files.catbox.moe/gpzxrh.jpg", "registeredAt": "2026-09-11T11:45:19.489Z" },
+            { "slot": 12, "teamName": "BSBTEAM", "captainName": "much", "logoUrl": "https://files.catbox.moe/dwc6p1.jpg", "registeredAt": "2026-09-11T12:16:42.858Z" }
+          ],
+          "champions": [
+            { "position": "Juara 1", "teamName": "VNO INISIAL", "prize": 25000 },
+            { "position": "Juara 2", "teamName": "LEGACY", "prize": 15000 },
+            { "position": "Juara 3", "teamName": "KOLIANTU", "prize": 10000 }
+          ]
         }
       ]
     },
@@ -250,115 +79,32 @@
       "id": "ffc-003",
       "name": "Friday Fire Cup #03",
       "date": "2026-09-18",
-      "time": "22:00",
-      "timezone": "WIB",
       "status": "finished",
-      "format": {
-        "mode": "Battle Royale",
-        "type": "Squad Mode",
-        "teams": 12,
-        "playersPerTeam": 4,
-        "totalPlayers": 48
-      },
-      "maps": [
-        "Bermuda",
-        "Purgatory",
-        "Kalahari"
-      ],
-      "teams": [
+      "sessions": [
         {
-          "slot": 1,
-          "teamName": "EL PASIF",
-          "captainName": "POLIJE ZALDY",
-          "logoUrl": "https://files.catbox.moe/s55xe6.jpg",
-          "registeredAt": "2026-09-14T08:02:00.672Z"
-        },
-        {
-          "slot": 2,
-          "teamName": "VOXZEY",
-          "captainName": "Chaa",
-          "logoUrl": "https://files.catbox.moe/99hegk.jpg",
-          "registeredAt": "2026-09-14T14:33:20.560Z"
-        },
-        {
-          "slot": 3,
-          "teamName": "VINDICTA",
-          "captainName": "PALZxDIBNYO",
-          "logoUrl": "https://files.catbox.moe/v9hlvu.jpg",
-          "registeredAt": "2026-09-17T10:06:19.222Z"
-        },
-        {
-          "slot": 4,
-          "teamName": "KAWAN FADIL",
-          "captainName": "KD RIYANN",
-          "logoUrl": "https://files.catbox.moe/20fvxf.jpg",
-          "registeredAt": "2026-09-17T11:31:00.870Z"
-        },
-        {
-          "slot": 5,
-          "teamName": "SNEAKY HILANG ARAH",
-          "captainName": "Improvvee",
-          "logoUrl": "https://files.catbox.moe/ky7o5c.jpg",
-          "registeredAt": "2026-09-17T13:56:53.499Z"
-        },
-        {
-          "slot": 6,
-          "teamName": "ZscXxz TEAM",
-          "captainName": "ZsX DANZKY",
-          "logoUrl": "https://files.catbox.moe/590r72.jpg",
-          "registeredAt": "2026-09-18T08:21:10.415Z"
-        },
-        {
-          "slot": 7,
-          "teamName": "Tubruk only",
-          "captainName": "alsyourfav",
-          "logoUrl": "https://files.catbox.moe/4190ro.jpg",
-          "registeredAt": "2026-09-18T10:06:05.803Z"
-        },
-        {
-          "slot": 8,
-          "teamName": "gitang",
-          "captainName": "omprengmbg",
-          "logoUrl": "https://files.catbox.moe/sqihsz.jpg",
-          "registeredAt": "2026-09-18T10:21:09.107Z"
-        },
-        {
-          "slot": 9,
-          "teamName": "LEGACY",
-          "captainName": "SAS.Irfann",
-          "logoUrl": "https://files.catbox.moe/6wdrnr.jpg",
-          "registeredAt": "2026-09-18T10:23:13.289Z"
-        },
-        {
-          "slot": 10,
-          "teamName": "VILLAIN LEGACY",
-          "captainName": "PG Ditzyy",
-          "logoUrl": "https://files.catbox.moe/wrxu6g.jpg",
-          "registeredAt": "2026-09-18T10:53:59.437Z"
-        },
-        {
-          "slot": 11,
-          "teamName": "STROM",
-          "captainName": "x7epin",
-          "logoUrl": "https://files.catbox.moe/w5hhlg.jpg",
-          "registeredAt": "2026-09-18T14:11:16.541Z"
-        }
-      ],
-      "champions": [
-        {
-          "position": "Juara 1",
-          "teamName": "EL PASIF",
-          "prize": 25000
-        },
-        {
-          "position": "Juara 2",
-          "teamName": "VILLAIN LEGACY",
-          "prize": 15000
-        },
-        {
-          "position": "Juara 3",
-          "teamName": "SNEAK HILANG ARAH",
-          "prize": 10000
+          "id": "s1",
+          "time": "22:00",
+          "price": 0,
+          "maxTeams": 12,
+          "groupRoomUrl": "",
+          "teams": [
+            { "slot": 1, "teamName": "EL PASIF", "captainName": "POLIJE ZALDY", "logoUrl": "https://files.catbox.moe/s55xe6.jpg", "registeredAt": "2026-09-14T08:02:00.672Z" },
+            { "slot": 2, "teamName": "VOXZEY", "captainName": "Chaa", "logoUrl": "https://files.catbox.moe/99hegk.jpg", "registeredAt": "2026-09-14T14:33:20.560Z" },
+            { "slot": 3, "teamName": "VINDICTA", "captainName": "PALZxDIBNYO", "logoUrl": "https://files.catbox.moe/v9hlvu.jpg", "registeredAt": "2026-09-17T10:06:19.222Z" },
+            { "slot": 4, "teamName": "KAWAN FADIL", "captainName": "KD RIYANN", "logoUrl": "https://files.catbox.moe/20fvxf.jpg", "registeredAt": "2026-09-17T11:31:00.870Z" },
+            { "slot": 5, "teamName": "SNEAKY HILANG ARAH", "captainName": "Improvvee", "logoUrl": "https://files.catbox.moe/ky7o5c.jpg", "registeredAt": "2026-09-17T13:56:53.499Z" },
+            { "slot": 6, "teamName": "ZscXxz TEAM", "captainName": "ZsX DANZKY", "logoUrl": "https://files.catbox.moe/590r72.jpg", "registeredAt": "2026-09-18T08:21:10.415Z" },
+            { "slot": 7, "teamName": "Tubruk only", "captainName": "alsyourfav", "logoUrl": "https://files.catbox.moe/4190ro.jpg", "registeredAt": "2026-09-18T10:06:05.803Z" },
+            { "slot": 8, "teamName": "gitang", "captainName": "omprengmbg", "logoUrl": "https://files.catbox.moe/sqihsz.jpg", "registeredAt": "2026-09-18T10:21:09.107Z" },
+            { "slot": 9, "teamName": "LEGACY", "captainName": "SAS.Irfann", "logoUrl": "https://files.catbox.moe/6wdrnr.jpg", "registeredAt": "2026-09-18T10:23:13.289Z" },
+            { "slot": 10, "teamName": "VILLAIN LEGACY", "captainName": "PG Ditzyy", "logoUrl": "https://files.catbox.moe/wrxu6g.jpg", "registeredAt": "2026-09-18T10:53:59.437Z" },
+            { "slot": 11, "teamName": "STROM", "captainName": "x7epin", "logoUrl": "https://files.catbox.moe/w5hhlg.jpg", "registeredAt": "2026-09-18T14:11:16.541Z" }
+          ],
+          "champions": [
+            { "position": "Juara 1", "teamName": "EL PASIF", "prize": 25000 },
+            { "position": "Juara 2", "teamName": "VILLAIN LEGACY", "prize": 15000 },
+            { "position": "Juara 3", "teamName": "SNEAK HILANG ARAH", "prize": 10000 }
+          ]
         }
       ]
     },
@@ -366,122 +112,33 @@
       "id": "ffc-004",
       "name": "Friday Fire Cup #04",
       "date": "2026-10-02",
-      "time": "22:00",
-      "timezone": "WIB",
       "status": "finished",
-      "format": {
-        "mode": "Battle Royale",
-        "type": "Squad Mode",
-        "teams": 12,
-        "playersPerTeam": 4,
-        "totalPlayers": 48
-      },
-      "maps": [
-        "Bermuda",
-        "Purgatory",
-        "Kalahari"
-      ],
-      "teams": [
+      "sessions": [
         {
-          "slot": 1,
-          "teamName": "PRIDE VOID",
-          "captainName": "EL TEBEE",
-          "logoUrl": "https://files.catbox.moe/gkyb37.jpg",
-          "registeredAt": "2026-09-03T10:01:35.427Z"
-        },
-        {
-          "slot": 2,
-          "teamName": "Nightmare",
-          "captainName": "Chaa",
-          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/9jh3po09.jpg",
-          "registeredAt": "2026-10-01T09:37:35.506Z"
-        },
-        {
-          "slot": 3,
-          "teamName": "AREA 15",
-          "captainName": "tangeiei",
-          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/rxhdmov9.jpg",
-          "registeredAt": "2026-10-01T10:14:34.940Z"
-        },
-        {
-          "slot": 4,
-          "teamName": "FISAPLE",
-          "captainName": "POLIJE ZALDY",
-          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/axjjfbj3.jpg",
-          "registeredAt": "2026-10-01T10:19:37.841Z"
-        },
-        {
-          "slot": 5,
-          "teamName": "VILAIN LGC",
-          "captainName": "PG Ditzyy",
-          "logoUrl": "https://files.catbox.moe/jattl0.jpg",
-          "registeredAt": "2026-10-01T19:34:46.630Z"
-        },
-        {
-          "slot": 6,
-          "teamName": "GITANG",
-          "captainName": "OMPRENGMBG",
-          "logoUrl": "https://files.catbox.moe/vac7e1.jpg",
-          "registeredAt": "2026-10-02T11:54:29.005Z"
-        },
-        {
-          "slot": 7,
-          "teamName": "IDGAF LEGACY",
-          "captainName": "Baczxy",
-          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/5d09dtuo.jpg",
-          "registeredAt": "2026-10-02T12:01:55.388Z"
-        },
-        {
-          "slot": 8,
-          "teamName": "SEURAMO PERADABAN",
-          "captainName": "Jamettt",
-          "logoUrl": "https://files.catbox.moe/a8v0tv.jpg",
-          "registeredAt": "2026-10-02T14:03:12.741Z"
-        },
-        {
-          "slot": 9,
-          "teamName": "PHOENIX FURY",
-          "captainName": ":VNO`RIZZH1GH",
-          "logoUrl": "https://files.catbox.moe/q306gi.jpg",
-          "registeredAt": "2026-10-02T14:18:28.503Z"
-        },
-        {
-          "slot": 10,
-          "teamName": "Sempak bolong",
-          "captainName": "boollayam",
-          "logoUrl": "https://files.catbox.moe/o0a1iy.jpg",
-          "registeredAt": "2026-10-02T14:56:20.864Z"
-        },
-        {
-          "slot": 11,
-          "teamName": "PAKET JNT",
-          "captainName": "vηø°Manzeiei",
-          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/nemqef2y.jpg",
-          "registeredAt": "2026-10-02T15:00:16.181Z"
-        },
-        {
-          "slot": 12,
-          "teamName": "MINITOR",
-          "captainName": "MIX QIUU",
-          "logoUrl": "https://files.catbox.moe/794mbd.jpg",
-          "registeredAt": "2026-10-02T15:01:20.377Z"
-        }
-      ],
-      "champions": [
-        {
-          "position": "Juara 1",
-          "teamName": "FISAPLE",
-          "prize": 25000
-        },
-        {
-          "position": "Juara 2",
-          "teamName": "MONITOR",
-          "prize": 15000
-        },
-        {
-          "position": "Juara 3",
-          "teamName": "PRIDE VOID",
-          "prize": 10000
+          "id": "s1",
+          "time": "22:00",
+          "price": 0,
+          "maxTeams": 12,
+          "groupRoomUrl": "",
+          "teams": [
+            { "slot": 1, "teamName": "PRIDE VOID", "captainName": "EL TEBEE", "logoUrl": "https://files.catbox.moe/gkyb37.jpg", "registeredAt": "2026-09-03T10:01:35.427Z" },
+            { "slot": 2, "teamName": "Nightmare", "captainName": "Chaa", "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/9jh3po09.jpg", "registeredAt": "2026-10-01T09:37:35.506Z" },
+            { "slot": 3, "teamName": "AREA 15", "captainName": "tangeiei", "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/rxhdmov9.jpg", "registeredAt": "2026-10-01T10:14:34.940Z" },
+            { "slot": 4, "teamName": "FISAPLE", "captainName": "POLIJE ZALDY", "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/axjjfbj3.jpg", "registeredAt": "2026-10-01T10:19:37.841Z" },
+            { "slot": 5, "teamName": "VILAIN LGC", "captainName": "PG Ditzyy", "logoUrl": "https://files.catbox.moe/jattl0.jpg", "registeredAt": "2026-10-01T19:34:46.630Z" },
+            { "slot": 6, "teamName": "GITANG", "captainName": "OMPRENGMBG", "logoUrl": "https://files.catbox.moe/vac7e1.jpg", "registeredAt": "2026-10-02T11:54:29.005Z" },
+            { "slot": 7, "teamName": "IDGAF LEGACY", "captainName": "Baczxy", "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/5d09dtuo.jpg", "registeredAt": "2026-10-02T12:01:55.388Z" },
+            { "slot": 8, "teamName": "SEURAMO PERADABAN", "captainName": "Jamettt", "logoUrl": "https://files.catbox.moe/a8v0tv.jpg", "registeredAt": "2026-10-02T14:03:12.741Z" },
+            { "slot": 9, "teamName": "PHOENIX FURY", "captainName": ":VNO`RIZZH1GH", "logoUrl": "https://files.catbox.moe/q306gi.jpg", "registeredAt": "2026-10-02T14:18:28.503Z" },
+            { "slot": 10, "teamName": "Sempak bolong", "captainName": "boollayam", "logoUrl": "https://files.catbox.moe/o0a1iy.jpg", "registeredAt": "2026-10-02T14:56:20.864Z" },
+            { "slot": 11, "teamName": "PAKET JNT", "captainName": "vηø°Manzeiei", "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/nemqef2y.jpg", "registeredAt": "2026-10-02T15:00:16.181Z" },
+            { "slot": 12, "teamName": "MINITOR", "captainName": "MIX QIUU", "logoUrl": "https://files.catbox.moe/794mbd.jpg", "registeredAt": "2026-10-02T15:01:20.377Z" }
+          ],
+          "champions": [
+            { "position": "Juara 1", "teamName": "FISAPLE", "prize": 25000 },
+            { "position": "Juara 2", "teamName": "MONITOR", "prize": 15000 },
+            { "position": "Juara 3", "teamName": "PRIDE VOID", "prize": 10000 }
+          ]
         }
       ]
     },
@@ -489,122 +146,33 @@
       "id": "ffc-005",
       "name": "Friday Fire Cup #05",
       "date": "2026-10-11",
-      "time": "22:00",
-      "timezone": "WIB",
       "status": "finished",
-      "format": {
-        "mode": "Battle Royale",
-        "type": "Squad Mode",
-        "teams": 12,
-        "playersPerTeam": 4,
-        "totalPlayers": 48
-      },
-      "maps": [
-        "Bermuda",
-        "Purgatory",
-        "Kalahari"
-      ],
-      "teams": [
+      "sessions": [
         {
-          "slot": 1,
-          "teamName": "PRIDE VOID",
-          "captainName": "EL TEBEE",
-          "logoUrl": "https://files.catbox.moe/gkyb37.jpg",
-          "registeredAt": "2026-10-11T04:31:09.337Z"
-        },
-        {
-          "slot": 2,
-          "teamName": "TEAM TAPIR",
-          "captainName": "BATAGOR",
-          "logoUrl": "https://files.catbox.moe/ynvpv1.jpg",
-          "registeredAt": "2026-10-11T04:32:38.884Z"
-        },
-        {
-          "slot": 3,
-          "teamName": "TEAMSAKIT",
-          "captainName": "RrqEvosQiuu",
-          "logoUrl": "https://files.catbox.moe/1sxbme.jpg",
-          "registeredAt": "2026-10-11T04:48:09.044Z"
-        },
-        {
-          "slot": 4,
-          "teamName": "SEURAMO PERADABAN",
-          "captainName": "Funky",
-          "logoUrl": "https://files.catbox.moe/gksgwx.jpg",
-          "registeredAt": "2026-10-11T04:51:00.358Z"
-        },
-        {
-          "slot": 5,
-          "teamName": "EL PRIME",
-          "captainName": "DDzamm★??",
-          "logoUrl": "https://files.catbox.moe/eo9alf.jpg",
-          "registeredAt": "2026-10-11T04:59:02.561Z"
-        },
-        {
-          "slot": 6,
-          "teamName": "MARGA CEES",
-          "captainName": "LEADERMARGA3",
-          "logoUrl": "https://files.catbox.moe/55sueh.jpg",
-          "registeredAt": "2026-10-11T05:48:52.864Z"
-        },
-        {
-          "slot": 7,
-          "teamName": "RIZALGEMOY",
-          "captainName": "POLIJE ZALDY",
-          "logoUrl": "https://files.catbox.moe/fwtrwp.jpg",
-          "registeredAt": "2026-10-11T06:48:04.598Z"
-        },
-        {
-          "slot": 8,
-          "teamName": "TUJUAN SEMARANG",
-          "captainName": "SCF • Diraaaex",
-          "logoUrl": "https://files.catbox.moe/yzrct5.jpg",
-          "registeredAt": "2026-10-11T08:20:17.608Z"
-        },
-        {
-          "slot": 9,
-          "teamName": "NIGHTMARE",
-          "captainName": "Pallrow",
-          "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/ex0mqflg.jpg",
-          "registeredAt": "2026-10-11T08:23:56.886Z"
-        },
-        {
-          "slot": 10,
-          "teamName": "SUPERMAN",
-          "captainName": "DIEEY18 CUPU",
-          "logoUrl": "https://files.catbox.moe/t006iw.jpg",
-          "registeredAt": "2026-10-11T11:07:08.885Z"
-        },
-        {
-          "slot": 11,
-          "teamName": "K1O OVERPOWER",
-          "captainName": "K1O Damzy",
-          "logoUrl": "https://files.catbox.moe/jmb600.jpg",
-          "registeredAt": "2026-10-11T11:42:53.226Z"
-        },
-        {
-          "slot": 12,
-          "teamName": "Arthava",
-          "captainName": "pbm",
-          "logoUrl": "https://files.catbox.moe/wz1inr.jpg",
-          "registeredAt": "2026-10-11T11:49:40.812Z"
-        }
-      ],
-      "champions": [
-        {
-          "position": "Juara 1",
-          "teamName": "RIZALGEMOY",
-          "prize": 25000
-        },
-        {
-          "position": "Juara 2",
-          "teamName": "MARGA CEES",
-          "prize": 15000
-        },
-        {
-          "position": "Juara 3",
-          "teamName": "ARTHAVA",
-          "prize": 10000
+          "id": "s1",
+          "time": "22:00",
+          "price": 0,
+          "maxTeams": 12,
+          "groupRoomUrl": "",
+          "teams": [
+            { "slot": 1, "teamName": "PRIDE VOID", "captainName": "EL TEBEE", "logoUrl": "https://files.catbox.moe/gkyb37.jpg", "registeredAt": "2026-10-11T04:31:09.337Z" },
+            { "slot": 2, "teamName": "TEAM TAPIR", "captainName": "BATAGOR", "logoUrl": "https://files.catbox.moe/ynvpv1.jpg", "registeredAt": "2026-10-11T04:32:38.884Z" },
+            { "slot": 3, "teamName": "TEAMSAKIT", "captainName": "RrqEvosQiuu", "logoUrl": "https://files.catbox.moe/1sxbme.jpg", "registeredAt": "2026-10-11T04:48:09.044Z" },
+            { "slot": 4, "teamName": "SEURAMO PERADABAN", "captainName": "Funky", "logoUrl": "https://files.catbox.moe/gksgwx.jpg", "registeredAt": "2026-10-11T04:51:00.358Z" },
+            { "slot": 5, "teamName": "EL PRIME", "captainName": "DDzamm★??", "logoUrl": "https://files.catbox.moe/eo9alf.jpg", "registeredAt": "2026-10-11T04:59:02.561Z" },
+            { "slot": 6, "teamName": "MARGA CEES", "captainName": "LEADERMARGA3", "logoUrl": "https://files.catbox.moe/55sueh.jpg", "registeredAt": "2026-10-11T05:48:52.864Z" },
+            { "slot": 7, "teamName": "RIZALGEMOY", "captainName": "POLIJE ZALDY", "logoUrl": "https://files.catbox.moe/fwtrwp.jpg", "registeredAt": "2026-10-11T06:48:04.598Z" },
+            { "slot": 8, "teamName": "TUJUAN SEMARANG", "captainName": "SCF • Diraaaex", "logoUrl": "https://files.catbox.moe/yzrct5.jpg", "registeredAt": "2026-10-11T08:20:17.608Z" },
+            { "slot": 9, "teamName": "NIGHTMARE", "captainName": "Pallrow", "logoUrl": "https://ganga--link--ghhzdp9sv8hk.code.run/i/ex0mqflg.jpg", "registeredAt": "2026-10-11T08:23:56.886Z" },
+            { "slot": 10, "teamName": "SUPERMAN", "captainName": "DIEEY18 CUPU", "logoUrl": "https://files.catbox.moe/t006iw.jpg", "registeredAt": "2026-10-11T11:07:08.885Z" },
+            { "slot": 11, "teamName": "K1O OVERPOWER", "captainName": "K1O Damzy", "logoUrl": "https://files.catbox.moe/jmb600.jpg", "registeredAt": "2026-10-11T11:42:53.226Z" },
+            { "slot": 12, "teamName": "Arthava", "captainName": "pbm", "logoUrl": "https://files.catbox.moe/wz1inr.jpg", "registeredAt": "2026-10-11T11:49:40.812Z" }
+          ],
+          "champions": [
+            { "position": "Juara 1", "teamName": "RIZALGEMOY", "prize": 25000 },
+            { "position": "Juara 2", "teamName": "MARGA CEES", "prize": 15000 },
+            { "position": "Juara 3", "teamName": "ARTHAVA", "prize": 10000 }
+          ]
         }
       ]
     },
@@ -612,45 +180,71 @@
       "id": "ffc-006",
       "name": "Friday Fire Cup #06",
       "date": "2026-10-16",
-      "time": "22:00",
-      "timezone": "WIB",
       "status": "open",
-      "format": {
-        "mode": "Battle Royale",
-        "type": "Squad Mode",
-        "teams": 12,
-        "playersPerTeam": 4,
-        "totalPlayers": 48
-      },
-      "maps": [
-        "Bermuda",
-        "Purgatory",
-        "Kalahari"
-      ],
-      "teams": [],
-      "champions": []
+      "sessions": [
+        {
+          "id": "s1",
+          "time": "09:00",
+          "price": 5000,
+          "maxTeams": 12,
+          "groupRoomUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_ROOM_0900",
+          "teams": [],
+          "champions": []
+        },
+        {
+          "id": "s2",
+          "time": "12:00",
+          "price": 5000,
+          "maxTeams": 12,
+          "groupRoomUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_ROOM_1200",
+          "teams": [],
+          "champions": []
+        },
+        {
+          "id": "s3",
+          "time": "15:00",
+          "price": 7500,
+          "maxTeams": 12,
+          "groupRoomUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_ROOM_1500",
+          "teams": [],
+          "champions": []
+        }
+      ]
     },
     {
       "id": "ffc-007",
       "name": "Friday Fire Cup #07",
       "date": "2026-10-23",
-      "time": "22:00",
-      "timezone": "WIB",
       "status": "open",
-      "format": {
-        "mode": "Battle Royale",
-        "type": "Squad Mode",
-        "teams": 12,
-        "playersPerTeam": 4,
-        "totalPlayers": 48
-      },
-      "maps": [
-        "Bermuda",
-        "Purgatory",
-        "Kalahari"
-      ],
-      "teams": [],
-      "champions": []
+      "sessions": [
+        {
+          "id": "s1",
+          "time": "09:00",
+          "price": 5000,
+          "maxTeams": 12,
+          "groupRoomUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_ROOM_0900",
+          "teams": [],
+          "champions": []
+        },
+        {
+          "id": "s2",
+          "time": "12:00",
+          "price": 5000,
+          "maxTeams": 12,
+          "groupRoomUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_ROOM_1200",
+          "teams": [],
+          "champions": []
+        },
+        {
+          "id": "s3",
+          "time": "15:00",
+          "price": 7500,
+          "maxTeams": 12,
+          "groupRoomUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_ROOM_1500",
+          "teams": [],
+          "champions": []
+        }
+      ]
     }
   ]
 }
