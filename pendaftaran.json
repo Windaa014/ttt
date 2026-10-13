@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:35:03.126Z",
+  "updatedAt": "2026-10-13T14:46:35.879Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -596,7 +596,19 @@
           "price": 1000,
           "maxTeams": 12,
           "groupRoomUrl": "https://chat.whatsapp.com/IJXSs4s0J9FFvlqrax4WPo?s=cl&p=a&mlu=4&iam=0",
-          "teams": [],
+          "teams": [
+            {
+              "slot": 1,
+              "teamName": "KOKO",
+              "captainName": "KOKOPAY",
+              "logoUrl": "",
+              "registeredAt": "2026-10-13T14:46:35.879Z",
+              "invoiceId": "6ace407b1bd38aeb1aa119c2",
+              "paid": true,
+              "paidAt": "2026-10-13T14:46:35.879Z",
+              "whatsapp": "6285876027452"
+            }
+          ],
           "champions": []
         },
         {
