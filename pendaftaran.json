@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:46:35.879Z",
+  "updatedAt": "2026-10-13T14:46:38.497Z",
   "notice": {
     "active": true,
     "type": "info",
@@ -602,10 +602,10 @@
               "teamName": "KOKO",
               "captainName": "KOKOPAY",
               "logoUrl": "",
-              "registeredAt": "2026-10-13T14:46:35.879Z",
+              "registeredAt": "2026-10-13T14:46:38.497Z",
               "invoiceId": "6ace407b1bd38aeb1aa119c2",
               "paid": true,
-              "paidAt": "2026-10-13T14:46:35.879Z",
+              "paidAt": "2026-10-13T14:46:38.497Z",
               "whatsapp": "6285876027452"
             }
           ],
