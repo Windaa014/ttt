@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T16:34:05.794Z",
+  "updatedAt": "2026-10-13T16:43:39.981Z",
   "notice": {
     "active": true,
     "type": "kabarbaik",
@@ -596,7 +596,19 @@
           "price": 1000,
           "maxTeams": 12,
           "groupRoomUrl": "https://chat.whatsapp.com/IJXSs4s0J9FFvlqrax4WPo?s=cl&p=a&mlu=4&iam=0",
-          "teams": [],
+          "teams": [
+            {
+              "slot": 1,
+              "teamName": "Abryy",
+              "captainName": "Abryy",
+              "logoUrl": "https://osidepix.vercel.app/p8Hyuy/7tdcnBlc.jpg",
+              "registeredAt": "2026-10-13T16:43:39.981Z",
+              "invoiceId": "6ace5f8f1bd38aeb1aa3e63a",
+              "paid": true,
+              "paidAt": "2026-10-13T16:43:39.981Z",
+              "whatsapp": "6285178954342"
+            }
+          ],
           "champions": []
         },
         {
