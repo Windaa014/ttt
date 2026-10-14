@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T17:04:40.404Z",
+  "updatedAt": "2026-10-14T00:17:06.938Z",
   "notice": {
     "active": true,
     "type": "kabarbaik",
@@ -590,38 +590,6 @@
       "date": "2026-10-16",
       "status": "open",
       "sessions": [
-        {
-          "id": "s1",
-          "time": "09:00",
-          "price": 1000,
-          "maxTeams": 12,
-          "groupRoomUrl": "https://chat.whatsapp.com/IJXSs4s0J9FFvlqrax4WPo?s=cl&p=a&mlu=4&iam=0",
-          "teams": [
-            {
-              "slot": 1,
-              "teamName": "Abryy",
-              "captainName": "Abryy",
-              "logoUrl": "https://osidepix.vercel.app/p8Hyuy/7tdcnBlc.jpg",
-              "registeredAt": "2026-10-13T16:43:39.981Z",
-              "invoiceId": "6ace5f8f1bd38aeb1aa3e63a",
-              "paid": true,
-              "paidAt": "2026-10-13T16:43:39.981Z",
-              "whatsapp": "6285178954342"
-            },
-            {
-              "slot": 2,
-              "teamName": "princess",
-              "captainName": "ecii",
-              "logoUrl": "https://osidepix.vercel.app/gzd6rr/AHqGcfSq.jpg",
-              "registeredAt": "2026-10-13T17:04:40.404Z",
-              "invoiceId": "6ace64701bd38aeb1aa458c0",
-              "paid": true,
-              "paidAt": "2026-10-13T17:04:40.404Z",
-              "whatsapp": "6285815309247"
-            }
-          ],
-          "champions": []
-        },
         {
           "id": "s2",
           "time": "12:00",
