@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T01:53:39.774Z",
+  "updatedAt": "2026-10-14T04:30:12.730Z",
   "notice": {
     "active": true,
     "type": "kabarbaik",
@@ -596,7 +596,15 @@
           "price": 3000,
           "maxTeams": 12,
           "groupRoomUrl": "https://chat.whatsapp.com/IJXSs4s0J9FFvlqrax4WPo?s=cl&p=a&mlu=4&iam=0",
-          "teams": [],
+          "teams": [
+            {
+              "slot": 1,
+              "teamName": "HIMAPERKA",
+              "captainName": "POLIJE ZALDY",
+              "logoUrl": "https://osidepix.vercel.app/oVMm0t/ZoeaGvxd.jpg",
+              "registeredAt": "2026-10-14T04:30:12.729Z"
+            }
+          ],
           "champions": []
         }
       ]
@@ -613,19 +621,7 @@
           "price": 3000,
           "maxTeams": 12,
           "groupRoomUrl": "https://chat.whatsapp.com/Grqn20rBALVBPFDWxORIIi?s=cl&p=a&mlu=4&iam=0",
-          "teams": [
-            {
-              "slot": 1,
-              "teamName": "HIMAPERKA",
-              "captainName": "POLIJE ZALDY",
-              "logoUrl": "https://osidepix.vercel.app/oVMm0t/ZoeaGvxd.jpg",
-              "registeredAt": "2026-10-14T01:53:39.774Z",
-              "invoiceId": "6acee0791bd38aeb1aafabd0",
-              "paid": true,
-              "paidAt": "2026-10-14T01:53:39.774Z",
-              "whatsapp": "6282132874981"
-            }
-          ],
+          "teams": [],
           "champions": []
         },
         {
@@ -634,19 +630,7 @@
           "price": 3000,
           "maxTeams": 12,
           "groupRoomUrl": "https://chat.whatsapp.com/Gv0ls3wQh8656TpssdMIii?s=cl&p=a&mlu=4&iam=0",
-          "teams": [
-            {
-              "slot": 1,
-              "teamName": "HIMAPERKA",
-              "captainName": "POLIJE ZALDY",
-              "logoUrl": "https://osidepix.vercel.app/oVMm0t/ZoeaGvxd.jpg",
-              "registeredAt": "2026-10-14T01:53:39.774Z",
-              "invoiceId": "6acee0791bd38aeb1aafabd0",
-              "paid": true,
-              "paidAt": "2026-10-14T01:53:39.774Z",
-              "whatsapp": "6282132874981"
-            }
-          ],
+          "teams": [],
           "champions": []
         }
       ]
