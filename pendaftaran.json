@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:26:37.888Z",
+  "updatedAt": "2026-10-14T00:28:41.747Z",
   "notice": {
     "active": true,
     "type": "kabarbaik",
@@ -613,6 +613,15 @@
           "price": 3000,
           "maxTeams": 12,
           "groupRoomUrl": "https://chat.whatsapp.com/Grqn20rBALVBPFDWxORIIi?s=cl&p=a&mlu=4&iam=0",
+          "teams": [],
+          "champions": []
+        },
+        {
+          "id": "s2",
+          "time": "22:00",
+          "price": 3000,
+          "maxTeams": 12,
+          "groupRoomUrl": "https://chat.whatsapp.com/Gv0ls3wQh8656TpssdMIii?s=cl&p=a&mlu=4&iam=0",
           "teams": [],
           "champions": []
         }
