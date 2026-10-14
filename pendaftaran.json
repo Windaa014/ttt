@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:28:41.747Z",
+  "updatedAt": "2026-10-14T01:51:09.022Z",
   "notice": {
     "active": true,
     "type": "kabarbaik",
@@ -596,7 +596,19 @@
           "price": 3000,
           "maxTeams": 12,
           "groupRoomUrl": "https://chat.whatsapp.com/IJXSs4s0J9FFvlqrax4WPo?s=cl&p=a&mlu=4&iam=0",
-          "teams": [],
+          "teams": [
+            {
+              "slot": 1,
+              "teamName": "ROAR",
+              "captainName": "POLIJE ZALDY",
+              "logoUrl": "https://osidepix.vercel.app/VxlVYQ/1qeM0uDe.jpg",
+              "registeredAt": "2026-10-14T01:51:09.022Z",
+              "invoiceId": "6acedfe21bd38aeb1aaf9cf9",
+              "paid": true,
+              "paidAt": "2026-10-14T01:51:09.022Z",
+              "whatsapp": "6282132874981"
+            }
+          ],
           "champions": []
         }
       ]
