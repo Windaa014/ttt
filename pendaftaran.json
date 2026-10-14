@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:17:16.634Z",
+  "updatedAt": "2026-10-14T00:17:30.674Z",
   "notice": {
     "active": true,
     "type": "kabarbaik",
@@ -597,15 +597,6 @@
       "date": "2026-10-23",
       "status": "open",
       "sessions": [
-        {
-          "id": "s1",
-          "time": "09:00",
-          "price": 5000,
-          "maxTeams": 12,
-          "groupRoomUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_ROOM_0900",
-          "teams": [],
-          "champions": []
-        },
         {
           "id": "s2",
           "time": "12:00",
