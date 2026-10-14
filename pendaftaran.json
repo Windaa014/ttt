@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:17:39.490Z",
+  "updatedAt": "2026-10-14T00:17:48.359Z",
   "notice": {
     "active": true,
     "type": "kabarbaik",
@@ -596,17 +596,7 @@
       "name": "Friday Fire Cup #07",
       "date": "2026-10-23",
       "status": "open",
-      "sessions": [
-        {
-          "id": "s3",
-          "time": "15:00",
-          "price": 7500,
-          "maxTeams": 12,
-          "groupRoomUrl": "https://chat.whatsapp.com/ISI_LINK_GRUP_ROOM_1500",
-          "teams": [],
-          "champions": []
-        }
-      ]
+      "sessions": []
     }
   ]
 }
