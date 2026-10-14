@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T04:30:12.730Z",
+  "updatedAt": "2026-10-14T04:31:12.085Z",
   "notice": {
     "active": true,
     "type": "kabarbaik",
@@ -621,7 +621,15 @@
           "price": 3000,
           "maxTeams": 12,
           "groupRoomUrl": "https://chat.whatsapp.com/Grqn20rBALVBPFDWxORIIi?s=cl&p=a&mlu=4&iam=0",
-          "teams": [],
+          "teams": [
+            {
+              "slot": 1,
+              "teamName": "HIMAPERKA",
+              "captainName": "POLIJE ZALDY",
+              "logoUrl": "https://osidepix.vercel.app/oVMm0t/ZoeaGvxd.jpg",
+              "registeredAt": "2026-10-14T04:31:12.085Z"
+            }
+          ],
           "champions": []
         },
         {
