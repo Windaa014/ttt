@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:17:48.359Z",
+  "updatedAt": "2026-10-14T00:19:02.581Z",
   "notice": {
     "active": true,
     "type": "kabarbaik",
@@ -589,7 +589,17 @@
       "name": "Friday Fire Cup #06",
       "date": "2026-10-16",
       "status": "open",
-      "sessions": []
+      "sessions": [
+        {
+          "id": "s1",
+          "time": "22:00",
+          "price": 3000,
+          "maxTeams": 12,
+          "groupRoomUrl": "https://chat.whatsapp.com/IJXSs4s0J9FFvlqrax4WPo?s=cl&p=a&mlu=4&iam=0",
+          "teams": [],
+          "champions": []
+        }
+      ]
     },
     {
       "id": "ffc-007",
