@@ -39,6 +39,16 @@
       "month": 10,
       "year": 2026,
       "timestamp": 1790816334
+    },
+    {
+      "id": "TRX-1F3B04F9",
+      "userId": "7506412328",
+      "type": "income",
+      "name": "gaji 1jt",
+      "amount": 1000000,
+      "date": "2026-10-18",
+      "time": "15:52:10",
+      "timestamp": 1792338730
     }
   ],
   "settings": {},
