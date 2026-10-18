@@ -4,7 +4,7 @@
       "id": "7506412328",
       "username": "OsideReal",
       "joinedAt": "2026-10-18T10:58:17.148Z",
-      "lastActive": "2026-10-18T11:18:26.838Z"
+      "lastActive": "2026-10-18T15:49:11.010Z"
     },
     "7134383613": {
       "id": "7134383613",
@@ -14,19 +14,6 @@
     }
   },
   "transactions": [
-    {
-      "id": "TRX-A1C1E9C1",
-      "userId": "7506412328",
-      "type": "income",
-      "name": "abri gaji",
-      "amount": 500000,
-      "date": "2026-09-29",
-      "time": "15:35:59",
-      "day": 29,
-      "month": 9,
-      "year": 2026,
-      "timestamp": 1790696159
-    },
     {
       "id": "TRX-897C9965",
       "userId": "7506412328",
