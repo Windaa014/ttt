@@ -1,5 +1,12 @@
 {
-  "users": {},
+  "users": {
+    "7506412328": {
+      "id": "7506412328",
+      "username": "OsideReal",
+      "joinedAt": "2026-10-18T10:58:17.148Z",
+      "lastActive": "2026-10-18T11:18:26.838Z"
+    }
+  },
   "transactions": [
     {
       "id": "TRX-A1C1E9C1",
@@ -41,5 +48,30 @@
       "timestamp": 1790816334
     }
   ],
-  "settings": {}
+  "settings": {},
+  "savings_goals": [],
+  "savings_projects": [
+    {
+      "id": "PRJ-MVDQG9O0",
+      "userId": "7506412328",
+      "name": "Beli Cincin Tunangan dan Cincin Nikah Custom",
+      "description": "",
+      "createdAt": "2026-10-18T11:19:11.856Z",
+      "status": "active"
+    }
+  ],
+  "savings_needs": [
+    {
+      "id": "ND-MVDQG9O1",
+      "projectId": "PRJ-MVDQG9O0",
+      "userId": "7506412328",
+      "name": "Cincin Tunangan dan Cincin Nikah Custom",
+      "targetAmount": 2300000,
+      "note": "",
+      "createdAt": "2026-10-18T11:19:11.857Z",
+      "status": "active"
+    }
+  ],
+  "savings_transactions": [],
+  "audit_logs": []
 }
