@@ -148,6 +148,15 @@
       "amount": 1000000,
       "note": "Manual input",
       "date": "2026-10-18T15:55:43.399Z"
+    },
+    {
+      "id": "TRX-MVE0CGBV",
+      "userId": "7506412328",
+      "needId": "ND-MVE055WS",
+      "projectId": "PRJ-MVDQH6ZX",
+      "amount": 150000,
+      "note": "Manual input",
+      "date": "2026-10-18T15:56:10.027Z"
     }
   ],
   "audit_logs": []
