@@ -5,6 +5,12 @@
       "username": "OsideReal",
       "joinedAt": "2026-10-18T10:58:17.148Z",
       "lastActive": "2026-10-18T11:18:26.838Z"
+    },
+    "7134383613": {
+      "id": "7134383613",
+      "username": "Unknown",
+      "joinedAt": "2026-10-18T11:28:15.325Z",
+      "lastActive": "2026-10-18T11:28:15.325Z"
     }
   },
   "transactions": [
@@ -57,7 +63,7 @@
       "name": "Beli Cincin Tunangan dan Cincin Nikah Custom",
       "description": "",
       "createdAt": "2026-10-18T11:19:11.856Z",
-      "status": "active"
+      "status": "deleted"
     },
     {
       "id": "PRJ-MVDQH6ZX",
@@ -65,6 +71,14 @@
       "name": "Tabungan Tunangan",
       "description": "",
       "createdAt": "2026-10-18T11:19:55.053Z",
+      "status": "active"
+    },
+    {
+      "id": "PRJ-MVDQWM9T",
+      "userId": "7506412328",
+      "name": "Tabungan Nikah",
+      "description": "",
+      "createdAt": "2026-10-18T11:31:54.689Z",
       "status": "active"
     }
   ],
@@ -77,7 +91,7 @@
       "targetAmount": 2300000,
       "note": "",
       "createdAt": "2026-10-18T11:19:11.857Z",
-      "status": "active"
+      "status": "deleted"
     }
   ],
   "savings_transactions": [],
