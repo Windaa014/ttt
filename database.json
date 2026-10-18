@@ -139,6 +139,16 @@
       "status": "active"
     }
   ],
-  "savings_transactions": [],
+  "savings_transactions": [
+    {
+      "id": "TRX-MVE0BVS7",
+      "userId": "7506412328",
+      "needId": "ND-MVE04I8M",
+      "projectId": "PRJ-MVDQH6ZX",
+      "amount": 1000000,
+      "note": "Manual input",
+      "date": "2026-10-18T15:55:43.399Z"
+    }
+  ],
   "audit_logs": []
 }
